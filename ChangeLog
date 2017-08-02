@@ -1,5 +1,18 @@
 # created with git log --stat=76 -M -C -300|fmt -sct -w80
 
+commit 2a932df3b8dc434737d49a6c4172b8420e3ef717
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Wed Aug 2 16:03:48 2017 -0600
+
+    install themes
+
+ ChangeLog        | 4142 ++++++++++++++++++++++++++++++++++++++++++++++++++
+ NEWS             |    6 +-
+ README.md        |    4 +-
+ configure.ac     |    4 +-
+ data/Makefile.am | 4075 +++++++++++++++++++++++++++++++++++++++++++++++++
+ 5 files changed, 8225 insertions(+), 6 deletions(-)
+
 commit 3bce3653bdac289f348a1b84113c9dc2880eca85
 Author: Brian Bidulock <bidulock@openss7.org>
 Date:   Wed Aug 2 15:32:53 2017 -0600
