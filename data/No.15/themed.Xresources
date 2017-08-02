@@ -1,0 +1,83 @@
+! general format by these guys:
+
+! Parts (C) 1996 By Greg J. Badros <gjb@cs.duke.edu>
+
+! Xemacs and Netscape sections (C) Joseph Fannin (trevorcor@zdnetonebox.com)
+! Please send me problems/bugs (?) with these sections so they can be improved.
+
+! You may use this file as specified under the GNU General Public Licen
+
+! edited and enclosed in themes by Daniel W. Lemon <dwl@wolsi.com>
+
+
+! ======
+! [ical]
+! ======
+
+Ical*Background: white
+Ical*itemSelectBg: slategray
+
+
+! ========
+! [Xemacs]
+! ========
+
+
+! Set Global Options
+! ==================leffert@cs.uchicago.edu
+
+!??xemacs.shell.container.emacs.background: white
+
+           Emacs.default.geometry:      80x55
+Emacs.default.attributeBackground:      white
+!Emacs.default.attributeForeground:	cyan
+!      Emacs.default.attributeFont:      -greek-lucidatypewriter-medium-r-normal-*-*-120-*-*-m-*-dos-737
+!       Emacs.italic.attributeFont:      -bitstream-courier-medium-i-normal-*-*-120-*-*-m-*-iso8859-9
+
+! Set Modeline Options
+! ====================
+Emacs.modeline*attributeBackground:     white
+Emacs.modeline*attributeForeground:	#444444
+!      Emacs.modeline*attributeFont:     -microsoft-vixar asci-medium-r-normal-*-*-160-*-*-p-*-ascii-0
+
+! Set Menubar Options
+! ===================
+	  Emacs*menubar*Foreground:    #444444
+	  Emacs*menubar*Background:    white
+!		Emacs*menubar*Font:    -adobe-helvetica-medium-r-normal-*-*-80-*-*-p-*-iso8859-9
+
+
+
+! Set Toolbar Options
+! ===================
+      Emacs*backgroundToolBarColor:    white
+       Emacs*topToolBarShadowColor:    gray
+    Emacs*bottomToolBarShadowColor:    black
+
+
+! Set Scrollbar Options
+! =====================
+     Emacs*XlwScrollBar.Background:    white
+
+! Set Selected Text Options
+! =========================
+     Emacs.zmacs-region*attributeBackground:    orange
+     Emacs.zmacs-region*attributeForeground:    black
+
+
+! ==========
+! [Netscape]
+! ==========
+
+
+     Netscape.TopLevelShell*background: white
+     Netscape.TopLevelShell*foreground: #444444
+       Netscape.TopLevelShell*fontList: -adobe-helvetica-medium-r-normal-*-9-80-*-*-p-*-iso8859-9
+
+Netscape.TopLevelShell*urlBarMainForm.urlComboBox.Text*background: white
+
+Netscape.TopLevelShell*urlBarMainForm.urlComboBox.ComboBoxMenuShell.ComboBoxRowColumn.ListSW*background: grey
+
+
+Netscape.TopLevelShell*selectForeground:                      black
+Netscape.TopLevelShell*selectBackground:                      orange

@@ -1,0 +1,56 @@
+ThemeDescription="yopyo"
+ThemeAuthor="Dude"
+Look=pixmap
+TitleBarHeight=16
+
+BorderSizeX=5
+BorderSizeY=5
+CornerSizeX=16
+CornerSizeY=16
+DlgBorderSizeX=0
+DlgBorderSizeY=0
+
+DesktopBackgroundCenter=1 # 0/1
+DesktopBackgroundColor="#000000"
+DesktopBackgroundImage="background.xpm"
+
+ColorNormalBorder="#CCCCCC"
+ColorActiveBorder="#666699"
+ColorActiveTitleBar="rgb:CC/CC/FF"
+ColorNormalTitleBar="rgb:CC/CC/CC"
+ColorNormalButton="#394765"
+ColorActiveButton="#77869C"
+ColorNormalTitleBarText="#CCCCCC"
+ColorActiveTitleBarText="#FFFFFF"
+
+ColorNormalMenu="#394765"
+ColorActiveMenuItem="#77869C"
+ColorNormalMenuItemText="#CCCCCC"
+ColorActiveMenuItemText="#FFFFFF"
+ColorDisabledMenuItemText="#808080"
+
+ColorMoveSizeStatus="rgb:C0/C0/C0"
+ColorMoveSizeStatusText="#FFFFFF"
+
+ColorDefaultTaskBar="#394765"
+ColorNormalTaskBarApp="#394765"
+ColorNormalTaskBarAppText="#CCCCCC"
+ColorActiveTaskBarApp="#77869C"
+ColorActiveTaskBarAppText="#FFFFFF"
+ColorMinimizedTaskBarApp="#26334A"
+ColorMinimizedTaskBarAppText="#CCCCCC"
+
+ColorListBox="#26334A"
+ColorListBoxText="#CCCCCC"
+ColorListBoxSelection="#394765"
+ColorListBoxSelectionText="#CCCCCC"
+
+ActiveTaskBarFontName="-ttf-neuropol-medium-r-normal-tt-11-*-*-*-*-*-*-*"
+NormalTaskBarFontName="-ttf-neuropol-medium-r-normal-tt-11-*-*-*-*-*-*-*"
+ClockFontName="-ttf-vixar asci-medium-r-normal-tt-13-*-*-*-*-*-*-*"
+QuickSwitchFontName="-ttf-vixar asci-medium-r-normal-tt-13-*-*-*-*-*-*-*"
+ListBoxFontName="-ttf-vixar asci-medium-r-normal-tt-13-*-*-*-*-*-*-"
+MenuFontName="-ttf-vixar asci-medium-r-normal-tt-13-*-*-*-*-*-*-"
+StatusFontName="-ttf-vixar asci-medium-r-normal-tt-13-*-*-*-*-*-*-*"
+TitleFontName="-ttf-neuropol-medium-r-normal-tt-11-*-*-*-*-*-*-*"
+ToolTipFontName="-ttf-vixar asci-medium-r-normal-tt-13-*-*-*-*-*-*-"

@@ -1,0 +1,8 @@
+/* XPM */
+static char * taskbuttonactive_xpm[] = {
+"2 2 3 1",
+".	c #a09ca8",
+"+	c #807c88",
+"@	c #605c68",
+".+",
+"+@"};

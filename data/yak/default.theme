@@ -1,0 +1,55 @@
+ThemeDescription="YAK - Yet Another KDE 2.x clone"
+ThemeAuthor="Sawsedge <sawsedge@yahoo.com>"
+
+Look=metal
+
+TitleBarHeight=17
+TitleBarCentered=0
+TitleButtonsSupported="xmis"
+TitleButtonsLeft="s"
+TitleButtonsRight="xmi"
+
+BorderSizeX=4
+BorderSizeY=5
+CornerSizeX=55
+CornerSizeY=55
+DlgBorderSizeX=4
+DlgBorderSizeY=5
+
+TaskBarClockLeds=1
+
+   # Window decor
+ColorNormalBorder="rgb:c6/c6/c6"
+ColorActiveBorder="rgb:52/71/9c"
+ColorActiveTitleBar="rgb:62/7f/ac"
+ColorNormalTitleBar="rgb:bb/bb/bb"
+ColorNormalTitleBarText="rgb:60/60/60"
+ColorActiveTitleBarText="rgb:ee/ee/ee"
+
+   # Buttons
+ColorNormalButton="rgb:c0/c0/c0"
+ColorActiveButton="rgb:a6/ad/b7"
+ColorActiveButtonText="rgb:ee/ee/ee"
+ColorNormalButtonText="rgb:22/22/22"
+
+   # Menus
+ColorNormalMenu="rgb:d0/d0/d0"
+ColorActiveMenuItem="rgb:52/71/9c"
+ColorNormalMenuItemText="rgb:00/00/00"
+ColorActiveMenuItemText="rgb:ee/ee/ee"
+ColorDisabledMenuItemText="rgb:80/80/80"
+
+   # Move/size
+ColorMoveSizeStatus="rgb:C0/C0/C0"
+ColorMoveSizeStatusText="rgb:00/00/00"
+
+   # Taskbar
+ColorDefaultTaskBar="rgb:c0/c0/c0"
+ColorNormalTaskBarApp="rgb:c0/c0/c0"
+ColorNormalTaskBarAppText="rgb:40/40/40"
+ColorActiveTaskBarApp="rgb:a6/ad/b7"
+ColorActiveTaskBarAppText="rgb:ee/ee/ee"
+ColorInvisibleTaskBarApp="rgb:c0/c0/c0"
+ColorInvisibleTaskBarAppText="rgb:60/60/60"
+ColorMinimizedTaskBarApp="rgb:c0/c0/c0"
+ColorMinimizedTaskBarAppText="rgb:60/60/60"

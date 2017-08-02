@@ -1,0 +1,89 @@
+ThemeDescription="Based on the look of http://www.urbicande.be Dark cities website"
+ThemeAuthor="Oleastre"
+Look=pixmap
+
+TitleButtonsSupported="sxmir"
+TitleBarCentered=1
+TitleBarHeight=16
+
+BorderSizeX=2
+BorderSizeY=2
+CornerSizeX=16
+CornerSizeY=16
+DlgBorderSizeX=2
+DlgBorderSizeY=2
+
+MenuMouseTracking=1 
+
+ColorNormalButton="rgb:ff/ef/ca"
+ColorNormalButtonText="rgb:00/00/00"
+ColorActiveButton="rgb:fe/f7/e4"
+ColorActiveButtonText="rgb:00/00/00"
+
+ColorNormalTitleBarText="rgb:ff/ff/ff"
+ColorActiveTitleBarText="rgb:00/00/00"
+ColorActiveBorder="rgb:ff/ef/ca"
+ColorNormalBorder="rgb:89/89/89"
+
+ColorDialog="rgb:ff/ef/ca"
+ColorListBox="rgb:e8/e0/ce"
+ColorListBoxText="rgb:00/00/00"
+ColorListBoxSelection="rgb:fe/f7/e4"
+ColorListBoxSelectionText="rgb:00/00/00"
+ColorScrollBar="rgb:42/4d/5c"
+ColorScrollBarSlider="rgb:32/3d/4c"
+ColorScrollBarButton="rgb:32/3d/4c"
+ColorScrollBarButtonArrow="rgb:ff/ff/ff"
+ColorLabel="rgb:ff/ef/ca"
+ColorLabelText="rgb:00/00/00"
+
+ColorNormalMenu="rgb:ff/ef/ca"
+ColorActiveMenuItem="rgb:fe/f7/e4"
+ColorNormalMenuItemText="rgb:00/00/00"
+ColorActiveMenuItemText="rgb:00/00/00"
+ColorDisabledMenuItemText="rgb:a8/a8/a8"
+
+ColorDefaultTaskBar="rgb:ff/ef/ca"
+ColorNormalTaskBarApp="rgb:ff/ef/ca"
+ColorNormalTaskBarAppText="rgb:00/00/00"
+ColorActiveTaskBarApp="rgb:fe/f7/e4"
+ColorActiveTaskBarAppText="rgb:00/00/00"
+ColorMinimizedTaskBarApp="rgb:b5/b8/9f"
+ColorMinimizedTaskBarAppText="rgb:00/00/00"
+
+ColorInput="rgb:fe/f7/e4"
+ColorInputText="rgb:00/00/00"
+ColorClock="rgb:ff/ef/ca"
+ColorClockText="rgb:00/00/00"
+ColorCPUStatusUser="rgb:82/8d/9c"
+ColorCPUStatusSystem="rgb:52/5d/6c"
+ColorCPUStatusNice="rgb:00/00/00"
+ColorCPUStatusIdle="rgb:32/3d/4c"
+ColorNetSend="rgb:82/8d/9c"
+ColorNetReceive="rgb:52/5d/6c"
+ColorNetIdle="rgb:32/3d/4c"
+
+ColorToolTip="rgb:ff/ef/ca"
+ColorToolTipText="rgb:00/00/00"
+ColorMoveSizeStatus="rgb:ff/ef/ca"
+ColorMoveSizeStatusText="rgb:00/00/00"
+ColorQuickSwitch="rgb:ff/ef/ca"
+ColorQuickSwitchText="rgb:00/00/00"
+
+ShowMenuButtonIcon=0
+TaskBarClockLeds=0
+
+# Font Specification
+TitleFontName           = 	"-adobe-helvetica-medium-r-normal-*-*-100-*-*-p-*-iso8859-1"
+MenuFontName            =       "-adobe-helvetica-medium-r-normal-*-*-100-*-*-p-*-iso8859-1"
+MinimizedWindowFontName =       "-adobe-helvetica-medium-r-normal-*-*-100-*-*-p-*-iso8859-1"
+ActiveButtonFontName    =       "-adobe-helvetica-medium-r-normal-*-*-100-*-*-p-*-iso8859-1"
+NormalButtonFontName    =       "-adobe-helvetica-medium-r-normal-*-*-100-*-*-p-*-iso8859-1"
+QuickSwitchFontName     =       "-adobe-helvetica-medium-r-normal-*-*-100-*-*-p-*-iso8859-1"
+ListBoxFontName         =       "-adobe-helvetica-medium-r-normal-*-*-100-*-*-p-*-iso8859-1"
+StatusFontName          =       "-adobe-helvetica-medium-r-normal-*-*-100-*-*-p-*-iso8859-1"
+ToolTipFontName         =       "-adobe-helvetica-medium-r-normal-*-*-100-*-*-p-*-iso8859-1"
+ActiveTaskBarFontName   =       "-adobe-helvetica-medium-r-normal-*-*-100-*-*-p-*-iso8859-1"
+NormalTaskBarFontName   =       "-adobe-helvetica-medium-r-normal-*-*-100-*-*-p-*-iso8859-1"
+ClockFontName           =       "-adobe-helvetica-medium-r-normal-*-*-140-*-*-p-*-iso8859-1"
+

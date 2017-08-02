@@ -1,0 +1,125 @@
+ThemeDescription="FrostyAgain (Snow for five days)"
+ThemeAuthor="mathias.hasselmann@gmx.de"
+Look=metal
+
+TitleBarCentered=1
+TitleBarHeight=16
+TitleButtonsLeft="s"
+TitleButtonsRight="xmir"
+TitleButtonsSupported="sirmrx"
+
+BorderSizeX=3
+BorderSizeY=3
+CornerSizeX=28
+CornerSizeY=28
+DlgBorderSizeX=3
+DlgBorderSizeY=3
+
+TaskBarClockLeds=0
+
+# borders
+ColorNormalBorder="#666666"
+ColorActiveBorder="#556670"
+
+# titlebar
+TitleFontName="-adobe-helvetica-bold-r-*-*-12-*-*-*-*-*-*-*"
+ColorNormalTitleBar="#666666"
+ColorActiveTitleBar="#556670"
+ColorNormalTitleBarText="#000000"
+ColorActiveTitleBarText="#ffffff"
+ColorNormalTitleButton="#666666"
+
+# quick switch
+QuickSwitchFontName="-adobe-helvetica-bold-r-*-*-18-*-*-*-*-*-*-*"
+ColorQuickSwitch="#556670"
+ColorQuickSwitchText="#cccccc"
+
+# menus
+MenuFontName="-adobe-helvetica-medium-r-*-*-12-*-*-*-*-*-*-*"
+ColorNormalMenu="#cccccc"
+ColorActiveMenuItem="#445560"
+ColorNormalMenuItemText="#223340"
+ColorActiveMenuItemText="#cccccc"
+ColorDisabledMenuItemText="#999999"
+
+# move / size indicator
+StatusFontName="-b&h-lucidatypewriter-bold-r-*-*-14-*-*-*-*-*-*-*"
+ColorMoveSizeStatus="#556670"
+ColorMoveSizeStatusText="#cccccc"
+
+# tooltips
+ToolTipFontName="-adobe-helvetica-medium-r-*-*-12-*-*-*-*-*-*-*"
+ColorToolTip="#cccccc"
+ColorToolTipText="#223340"
+
+# dialog
+LabelFontName="-adobe-helvetica-medium-r-*-*-12-*-*-*-*-*-*-*"
+ColorDialog="#cccccc"
+ColorLabel="#cccccc"
+ColorLabelText="#223340"
+
+# buttons
+NormalButtonFontName="-adobe-helvetica-medium-r-*-*-12-*-*-*-*-*-*-*"
+ActiveButtonFontName="-adobe-helvetica-medium-r-*-*-12-*-*-*-*-*-*-*"
+ColorNormalButton="#445560"
+ColorActiveButton="#556670"
+ColorNormalButtonText="#cccccc"
+ColorActiveButtonText="#ffffff"
+
+# listbox
+ListBoxFontName="-adobe-helvetica-medium-r-*-*-12-*-*-*-*-*-*-*"
+ColorListBox="#cccccc"
+ColorListBoxText="#445560"
+ColorListBoxSelection="#556670"
+ColorListBoxSelectionText="#ffffff"
+
+# scrollbar
+ColorScrollBar="#999999"
+ColorScrollBarArrow="#cccccc"
+ColorScrollBarSlider="#cccccc"
+
+# taskbar
+NormalTaskBarFontName="-adobe-helvetica-medium-r-*-*-12-*-*-*-*-*-*-*"
+ActiveTaskBarFontName="-adobe-helvetica-medium-r-*-*-12-*-*-*-*-*-*-*"
+MinimizedWindowFontName="-adobe-helvetica-medium-r-*-*-12-*-*-*-*-*-*-*"
+ColorDefaultTaskBar="#666666"
+ColorNormalTaskBarApp="#445560"
+ColorActiveTaskBarApp="#556670"
+ColorMinimizedTaskBarApp="#666666"
+ColorInvisibleTaskBarApp="#555555"
+ColorNormalTaskBarAppText="#cccccc"
+ColorActiveTaskBarAppText="#ffffff"
+ColorMinimizedTaskBarAppText="#cccccc"
+ColorInvisibleTaskBarAppText="#cccccc"
+
+# input
+ColorInput="#707070"
+ColorInputText="#cccccc"
+ColorInputSelection="#334450"
+ColorInputSelectionText="#cccccc"
+
+# clock
+ClockFontName="-b&h-lucidatypewriter-medium-r-*-*-12-*-*-*-*-*-*-*"
+ColorClock="#666666"
+ColorClockText="#cccccc"
+
+# apm status
+ApmFontName="-b&h-lucidatypewriter-medium-r-*-*-12-*-*-*-*-*-*-*"
+ColorApm="#666666"
+ColorApmText="#cccccc"
+
+# cpu status
+ColorCPUStatusIdle="#666666"
+ColorCPUStatusUser="#33cc00"
+ColorCPUStatusSystem="#cc9900"
+ColorCPUStatusNice="#cc0000"
+
+# network status
+ColorNetIdle="#666666"
+ColorNetSend="#33cc00"
+ColorNetReceive="#cc9900"
+
+
+# desktop
+#DesktopBackgroundColor="#334450"
+#DesktopBackgroundImage=""

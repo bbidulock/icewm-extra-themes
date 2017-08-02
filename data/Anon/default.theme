@@ -1,0 +1,72 @@
+ThemeDescription="Anon"
+ThemeAuthor="isutt (isuttonl@zipmail.com.br)"
+
+Look=pixmap
+
+TitleBarHeight=12
+TitleButtonsLeft=""
+TitleButtonsRight="xr"
+TitleButtonsSupported="xr"
+
+BorderSizeX=2
+BorderSizeY=2
+CornerSizeX=10
+CornerSizeY=10
+DlgBorderSizeX=2
+DlgBorderSizeY=2
+
+ColorNormalBorder="#e3e3e3"
+ColorActiveBorder="#c3c3c3"
+
+ColorNormalButton="#708a73"
+ColorNormalButtonText="#ffffff"
+ColorActiveButton="#708a73"
+ColorActiveButtonText="#ffffff"
+
+ColorNormalTitleBarText="#d3d3d3"
+ColorActiveTitleBarText="#FFFFFF"
+
+ColorNormalMenu="#708a73"
+ColorActiveMenuItem="#708a73"
+ColorNormalMenuItemText="#ffffff"
+ColorActiveMenuItemText="#ffffff"
+ColorDisabledMenuItemText="#808080"
+
+ColorMoveSizeStatus="#708a73"
+ColorMoveSizeStatusText="#ffffff"
+
+ColorDefaultTaskBar="#708a73"
+ColorNormalTaskBarApp="#708a73"
+ColorNormalTaskBarAppText="#ffffff"
+ColorActiveTaskBarApp="#708a73"
+ColorActiveTaskBarAppText="#ffffff"
+ColorMinimizedTaskBarApp="#708a73"
+ColorMinimizedTaskBarAppText="#CCCCCC"
+
+ColorListBox="#d3d3d3"
+ColorListBoxText="#000000"
+ColorListBoxSelection="#605d75"
+ColorListBoxSelectionText="#ffffff"
+
+ColorScrollBar="#d3d3d3"
+ColorScrollBarArrow="#d3d3d3"
+ColorScrollBarSlider="#d3d3d3"
+
+ColorDialog="#708a73"
+ColorLabel="#708a73"
+
+TitleFontName="-*-lucida-medium-r-*-*-10-*-*-*-*-*-*-*"
+MenuFontName="-*-lucida-medium-r-*-*-10-*-*-*-*-*-*-*"
+MinimizedWindowFontName = "-*-lucida-medium-r-*-*-10-*-*-*-*-*-*-*"
+ActiveButtonFontName = "-*-lucida-bold-r-*-*-10-*-*-*-*-*-*-*"
+NormalButtonFontName = "-*-lucida-bold-r-*-*-10-*-*-*-*-*-*-*"
+QuickSwitchFontName = "-*-lucida-medium-r-*-*-10-*-*-*-*-*-*-*"
+ListBoxFontName = "-*-lucida-bold-r-*-*-10-*-*-*-*-*-*-*"
+StatusFontName = "-*-lucida-medium-r-*-*-10-*-*-*-*-*-*-*"
+ToolTipFontName = "-*-lucida-medium-r-*-*-10-*-*-*-*-*-*-*"
+LabelFontName = "-*-lucida-medium-r-*-*-10-*-*-*-*-*-*-*"
+NormalTaskBarFontName = "-*-lucida-medium-r-*-*-10-*-*-*-*-*-*-*"
+ActiveTaskBarFontName = "-*-lucida-medium-r-*-*-10-*-*-*-*-*-*-*"
+
+ShowMenuButtonIcon=0
+ShowMoveSizeStatus=1

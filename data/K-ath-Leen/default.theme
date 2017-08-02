@@ -1,0 +1,144 @@
+ThemeDescription="K-ath-Leen"
+ThemeAuthor="guy.clotilde@wanadoo.fr"
+
+Look=metal
+
+# BACKGROUND
+DesktopBackgroundColor=" "
+DesktopBackgroundImage=" "
+
+
+
+# FONT
+# default: lucida 
+#TitleFontName="-*-lucida-medium-r-*-*-10-*-*-*-*-*-*-*"
+#MenuFontName="-*-tahoma-medium-r-*-*-10-*-*-*-*-*-*-*"
+#MinimizedWindowFontName="-*-lucida-medium-r-*-*-10-*-*-*-*-*-*-*"
+#ActiveButtonFontName="-*-lucida-medium-r-*-*-14-*-*-*-*-*-*-*"
+#NormalButtonFontName="-*-lucida-medium-r-*-*-10-*-*-*-*-*-*-*"
+#QuickSwitchFontName="-*-lucida-medium-r-*-*-10-*-*-*-*-*-*-*"
+#ListBoxFontName="-*-lucida-medium-r-*-*-10-*-*-*-*-*-*-*"
+#StatusFontName="-*-lucida-medium-r-*-*-10-*-*-*-*-*-*-*"
+#ToolTipFontName="-*-lucida-medium-r-*-*-10-*-*-*-*-*-*-*"
+#ActiveTaskBarFontName="-*-lucida-medium-r-*-*-10-*-*-*-*-*-*-*"
+#NormalTaskBarFontName="-*-lucida-medium-r-*-*-10-*-*-*-*-*-*-*"
+#ClockFontName="-*-lucida-medium-r-*-*-10-*-*-*-*-*-*-*"
+
+# uncomment these to set font to helvetica
+TitleFontName="-*-helvetica-medium-r-*-*-12-*-*-*-*-*-*-*"
+#MenuFontName="-*-helvetica-medium-r-*-*-10-*-*-*-*-*-*-*"
+#MinimizedWindowFontName="-*-helvetica-medium-r-*-*-10-*-*-*-*-*-*-*"
+#ActiveButtonFontName="-*-helvetica-medium-r-*-*-10-*-*-*-*-*-*-*"
+#NormalButtonFontName="-*-helvetica-medium-r-*-*-10-*-*-*-*-*-*-*"
+#QuickSwitchFontName="-*-helvetica-medium-r-*-*-10-*-*-*-*-*-*-*"
+#ListBoxFontName="-*-helvetica-medium-r-*-*-10-*-*-*-*-*-*-*"
+#StatusFontName="-*-helvetica-medium-r-*-*-10-*-*-*-*-*-*-*"
+#ToolTipFontName="-*-helvetica-medium-r-*-*-10-*-*-*-*-*-*-*"
+ActiveTaskBarFontName="-*-helvetica-medium-r-*-*-10-*-*-*-*-*-*-*"
+NormalTaskBarFontName="-*-helvetica-medium-r-*-*-10-*-*-*-*-*-*-*"
+#ClockFontName="-*-helvetica-bold-r-*-*-10-*-*-*-*-*-*-*"
+
+# TASKBAR
+TaskBarDoubleHeight=0
+
+
+ShowMenuButtonIcon=0
+MenuMouseTracking=1 
+
+TitleButtonsSupported="xmis"
+TitleButtonsLeft="s"
+TitleButtonsRight="xmi"
+
+TitleBarHeight=16
+TitleBarCentered=1
+BorderSizeX=3
+BorderSizeY=3
+CornerSizeX=18
+CornerSizeY=18
+DlgBorderSizeX=1
+DlgBorderSizeY=1
+
+#ColorActiveTitleBar="#AC7A06"
+ColorActiveTitleBar="#A0C013"
+#ColorActiveTitleBar="#EEEEE1"
+ColorNormalTitleBar="#EEEEE1"
+ColorActiveTitleBarText="#000000"
+ColorNormalTitleBarText="grey"
+ColorActiveTitleBarShadow       =       "#A0C013"
+#ColorActiveTitleBarShadow       =       "#EEEEEE"
+ColorNormalTitleBarShadow       =       "#FFFFFF"
+
+# buttons
+
+ColorNormalButton="#EEEEEE"
+ColorActiveButton="#FFFFFF"
+
+# dialog
+
+ColorDialog="#EEEEEE"
+
+# menus
+
+ColorNormalMenu="ivory2"
+#ColorActiveMenuItem="#907cba"
+ColorActiveMenuItem="Orange"
+ColorNormalMenuItemText="#000000"
+ColorActiveMenuItemText="#000000"
+ColorDisabledMenuItemText="#a0a0a0"
+
+# move / size indicator
+
+ColorMoveSizeStatus="#EEEEEE"
+ColorMoveSizeStatusText="#333333"
+
+# tool tip
+
+ColorToolTip="#FFFFFF"
+ColorToolTipText="#000000"
+
+# taskbar
+
+ColorDefaultTaskBar="#a7b27f"
+ColorNormalTaskBarApp="#a7b27f"
+ColorNormalTaskBarAppText="#333333"
+#ColorActiveTaskBarApp="#e0e0e0"
+#ColorActiveTaskBarApp="#FFFFFF"
+ColorActiveTaskBarApp="Orange"
+ColorActiveTaskBarAppText="white"
+ColorMinimizedTaskBarApp="#EEEEEE"
+ColorMinimizedTaskBarAppText="#999999"
+
+# listbox
+
+ColorListBox="#EEEEEE"
+ColorListBoxText="#333333"
+ColorListBoxSelection="#666666"
+ColorListBoxSelectionText="#EEEEEE"
+
+# input
+
+ColorInput="#CCCCCC"
+ColorInputText="#333333"
+ColorInputSelection="#FFFF00"
+ColorInputSelectionText="#FFFFFF"
+
+# monitors
+
+TaskBarClockLeds=0
+ColorClock="#a7b27f"
+ColorClockText="#000000"
+
+#ColorCPUStatusUser="#BBBBFF"
+#ColorCPUStatusSystem="#FFBBBB"
+#ColorCPUStatusNice="#BBFFBB"
+#ColorCPUStatusIdle="#FFFFFF"
+#ColorNetSend="#FFBBBB"
+#ColorNetReceive="#BBBBFF"
+#ColorNetIdle="#FFFFFF"
+
+
+# Desktop background image
+#DesktopBackgroundImage="Fond.xpm"
+# Display desktop background centered and not tiled
+#DesktopBackgroundCenter=1 # 0 / 1
+

@@ -1,0 +1,72 @@
+ThemeDescription="spiffICE"
+ThemeAuthor="isutt (isuttonl@zipmail.com.br)"
+
+Look=pixmap
+
+TitleBarHeight=12
+TitleButtonsLeft="i"
+TitleButtonsRight="xm"
+
+BorderSizeX=2
+BorderSizeY=2
+CornerSizeX=14
+CornerSizeY=14
+DlgBorderSizeX=2
+DlgBorderSizeY=2
+
+ColorNormalBorder="#e3e3e3"
+ColorActiveBorder="#c3c3c3"
+
+ColorNormalButton="#d3d3d3"
+ColorNormalButtonText="#000000"
+ColorActiveButton="#d3d3d3"
+ColorActiveButtonText="#000000"
+
+ColorNormalTitleBarText="#d3d3d3"
+ColorActiveTitleBarText="#FFFFFF"
+
+ColorNormalMenu="#d8d8d8"
+ColorActiveMenuItem="#605d75"
+ColorNormalMenuItemText="#000000"
+ColorActiveMenuItemText="#ffffff"
+ColorDisabledMenuItemText="#808080"
+
+ColorMoveSizeStatus="#d3d3d3"
+ColorMoveSizeStatusText="#000000"
+
+ColorDefaultTaskBar="#d3d3d3"
+ColorNormalTaskBarApp="#d3d3d3"
+ColorNormalTaskBarAppText="#000000"
+ColorActiveTaskBarApp="#d3d3d3"
+ColorActiveTaskBarAppText="#000000"
+ColorMinimizedTaskBarApp="#d3d3d3"
+ColorMinimizedTaskBarAppText="#000000"
+
+ColorListBox="#d3d3d3"
+ColorListBoxText="#000000"
+ColorListBoxSelection="#605d75"
+ColorListBoxSelectionText="#ffffff"
+
+ColorScrollBar="#d3d3d3"
+ColorScrollBarArrow="#d3d3d3"
+ColorScrollBarSlider="#d3d3d3"
+
+ColorDialog="#d3d3d3"
+ColorLabel="#d3d3d3"
+
+TitleFontName="-*-lucida-medium-r-*-*-10-*-*-*-*-*-*-*"
+MenuFontName="-*-lucida-bold-r-*-*-10-*-*-*-*-*-*-*"
+MinimizedWindowFontName = "-*-lucida-medium-r-*-*-10-*-*-*-*-*-*-*"
+ActiveButtonFontName = "-*-lucida-bold-r-*-*-10-*-*-*-*-*-*-*"
+NormalButtonFontName = "-*-lucida-bold-r-*-*-10-*-*-*-*-*-*-*"
+QuickSwitchFontName = "-*-lucida-medium-r-*-*-10-*-*-*-*-*-*-*"
+ListBoxFontName = "-*-lucida-bold-r-*-*-10-*-*-*-*-*-*-*"
+StatusFontName = "-*-lucida-medium-r-*-*-10-*-*-*-*-*-*-*"
+ToolTipFontName = "-*-lucida-medium-r-*-*-10-*-*-*-*-*-*-*"
+LabelFontName = "-*-lucida-medium-r-*-*-10-*-*-*-*-*-*-*"
+NormalTaskBarFontName = "-*-lucida-bold-r-*-*-10-*-*-*-*-*-*-*"
+ActiveTaskBarFontName = "-*-lucida-bold-r-*-*-10-*-*-*-*-*-*-*"
+
+ShowMenuButtonIcon=0
+
+ShowTaskBar = 1

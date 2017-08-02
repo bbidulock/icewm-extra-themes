@@ -1,0 +1,120 @@
+#+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+#
+# Palette:
+#
+#	#4B5461 (hsv:215/22/38)		#606060
+#	#626d7c	(hsv:215/21/49)
+#	#727F92	(hsv:215/21/57)		#919191
+#	#8695aa	(hsv:215/21/67)
+#	#A0A9B5 (hsv:214/11/70)		#b2b2b2
+#
+#+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Look=metal
+TitleButtonsSupported="sxmirhd"
+TitleButtonsLeft="s"
+TitleButtonsRight="xmirhd"
+
+BorderSizeX=9
+BorderSizeY=9
+DlgBorderSizeX=4
+DlgBorderSizeY=4
+CornerSizeX=15
+CornerSizeY=15
+
+ScrollBarX=15
+ScrollBarY=15
+
+TitleBarJustify=98
+TitleBarHeight=15
+ShowMenuButtonIcon=1
+
+TaskBarClockLeds=0
+
+ColorLabel="#cccccc"
+ColorLabelText="#000000"
+ColorDialog="#cccccc"
+
+ColorNormalButton="#727F92"
+ColorNormalButtonText="#A0A9B5"
+ColorActiveButton="#626d7c"
+ColorActiveButtonText="#A0A9B5"
+
+ColorActiveTitleBar="#727F92"
+ColorActiveTitleBarText="#A0A9B5"
+ColorActiveTitleBarShadow="#4B5461"
+
+ColorNormalTitleBar="#919191"
+ColorNormalTitleBarText="#b2b2b2"
+ColorNormalTitleBarShadow="#606060"
+
+ColorNormalMenu="#CCCCCC"
+ColorNormalMenuItemText="#4B5461"
+ColorActiveMenuItem="#4B5461"
+ColorActiveMenuItemText="#A0A9B5"
+
+ColorListBox="#CCCCCC"
+ColorListBoxText="#4B5461"
+ColorListBoxSelection="#4B5461"
+ColorListBoxSelectionText="#A0A9B5"
+
+ColorDefaultTaskBar="#727F92"
+ColorNormalTaskBarApp="#727F92"
+ColorNormalTaskBarAppText="#A0A9B5"
+ColorActiveTaskBarApp="#626d7c"
+ColorActiveTaskBarAppText="#A0A9B5"
+ColorMinimizedTaskBarApp="#4B5461"
+ColorMinimizedTaskBarAppText="#727F92"
+ColorHiddenTaskBarApp="#4B5461"
+ColorMinimizedTaskBarAppText="#727F92"
+
+ColorInput="#A0A9B5"
+ColorInputText="#000000"
+ColorInputSelection="#4B5461"
+ColorInputSelectionText="#A0A9B5"
+
+ColorClock="#727F92"
+ColorClockText="#A0A9B5"
+
+ColorApm="#727F92"
+ColorApmText="#A0A9B5"
+
+ColorCPUStatusIdle="#727F92"
+ColorCPUStatusUser="#A0A9B5"
+ColorCPUStatusSystem="#8695aa"
+ColorCPUStatusNice="#4B5461"
+
+ColorNetIdle="#727F92"
+ColorNetSend="#A0A9B5"
+ColorNetReceive="#4B5461"
+ColorNetReceive="#8695aa"
+
+ColorToolTip="#A0A9B5"
+ColorToolTipText="#000000"
+
+ColorMoveSizeStatus="#727F92"
+ColorMoveSizeStatusText="#A0A9B5"
+ColorQuickSwitch="#727F92"
+ColorQuickSwitchText="#A0A9B5"
+
+
+#TitleFontName="-adobe-helvetica-medium-r-*-*-11-*-*-*-*-*-*-*"
+TitleFontName="-artwiz-snap-*-*-*-*-10-*-*-*-*-*-*-*"
+MenuFontName="-adobe-helvetica-medium-r-*-*-11-*-*-*-*-*-*-*"
+ListBoxFontName="-adobe-helvetica-medium-r-*-*-11-*-*-*-*-*-*-*"
+ClockFontName="-adobe-helvetica-medium-r-*-*-11-*-*-*-*-*-*-*"
+NormalTaskBarFontName="-adobe-helvetica-medium-r-*-*-12-*-*-*-*-*-*-*"
+ActiveTaskBarFontName="-adobe-helvetica-bold-r-*-*-12-*-*-*-*-*-*-*"
+LabelFontName="-adobe-helvetica-medium-r-*-*-11-*-*-*-*-*-*-*"
+QuickSwitchFontName="-adobe-helvetica-bold-r-*-*-18-*-*-*-*-*-*-*"
+
+
+"14 30 3 1",
+" 	c #727F92",
+"+	c #A0A9B5",
+"@	c #4B5461",
+
+"14 30 3 1",
+" 	c #919191",
+"+	c #B2B2B2",
+"@	c #606060",

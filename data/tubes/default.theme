@@ -1,0 +1,56 @@
+ThemeDescription="Nice blue tubular pattern"
+ThemeAuthor="Sawsedge <sawsedge@yahoo.com>"
+
+Look=gtk
+
+TitleBarHeight=18
+TitleBarCentered=1
+TitleButtonsSupported="xmisrh" # rh available
+#TitleButtonsLeft="shr"
+#TitleButtonsRight="xmi"
+
+BorderSizeX=4
+BorderSizeY=5
+CornerSizeX=23
+CornerSizeY=23
+DlgBorderSizeX=3
+DlgBorderSizeY=3
+
+DesktopBackgroundColor="rgb:00/00/00"
+#DesktopBackgroundImage=""
+
+   # Window decor
+ColorNormalBorder="rgb:b0/b0/b0"
+ColorActiveBorder="rgb:62/7b/8b"
+ColorActiveTitleBar="rgb:66/7f/8f"
+ColorNormalTitleBar="rgb:bb/bb/bb"
+ColorNormalTitleBarText="rgb:80/80/80"
+ColorActiveTitleBarText="rgb:ee/ee/ee"
+
+   # Buttons
+ColorNormalButton="rgb:a0/a0/a0"
+ColorActiveButton="rgb:62/7b/8b"
+ColorActiveButtonText="rgb:ee/ee/ee"
+ColorNormalButtonText="rgb:22/22/22"
+
+   # Menus
+ColorNormalMenu="rgb:C0/C0/C0"
+ColorActiveMenuItem="rgb:62/7b/8b"
+ColorNormalMenuItemText="rgb:00/00/00"
+ColorActiveMenuItemText="rgb:ee/ee/ee"
+ColorDisabledMenuItemText="rgb:80/80/80"
+
+   # Move/size
+ColorMoveSizeStatus="rgb:C0/C0/C0"
+ColorMoveSizeStatusText="rgb:00/00/00"
+
+   # Taskbar
+ColorDefaultTaskBar="rgb:b0/b0/90"
+ColorNormalTaskBarApp="rgb:C0/C0/C0"
+ColorNormalTaskBarAppText="rgb:30/30/30"
+ColorActiveTaskBarApp="rgb:62/7b/8b"
+ColorActiveTaskBarAppText="rgb:ee/ee/ee"
+ColorInvisibleTaskBarApp="rgb:a0/a0/a0"
+ColorInvisibleTaskBarAppText="rgb:50/50/50"
+ColorMinimizedTaskBarApp="rgb:b0/b0/b0"
+ColorMinimizedTaskBarAppText="rgb:30/30/30"

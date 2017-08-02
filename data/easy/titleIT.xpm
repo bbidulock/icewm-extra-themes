@@ -1,0 +1,20 @@
+/* XPM */
+static char * titleAT_xpm[] = {
+"12 12 5 1",
+" 	c #FFFFFFFFFFFF",
+".	c #C71BC30BC71B",
+"X	c #9E799A699E79",
+"o	c #69A669A669A6",
+"O	c #000000000000",
+"            ",
+"............",
+"XXXXXXXXXXXX",
+"XXXXXXXXXXXX",
+"XXXXXXXXXXXX",
+"XXXXXXXXXXXX",
+"XXXXXXXXXXXX",
+"XXXXXXXXXXXX",
+"XXXXXXXXXXXX",
+"XXXXXXXXXXXX",
+"oooooooooooo",
+"OOOOOOOOOOOO"};

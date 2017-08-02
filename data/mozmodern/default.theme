@@ -1,0 +1,85 @@
+ThemeDescription="MozModern"
+ThemeAuthor="Rick Silin <winix@crosswinds.net> http://linuxteach.hypermart.net"
+Look=gtk
+
+# monitors
+
+ColorCPUStatusUser="#5C7DBD"
+ColorCPUStatusSystem="#F3E638"
+ColorCPUStatusNice="#C3C3C3"
+ColorCPUStatusIdle="#000000"
+ColorNetSend="#F3E638"
+ColorNetReceive="#5C7DBD"
+ColorNetIdle="#000000"
+
+#ShowXButton=1
+
+TitleButtonsLeft="s"
+TitleButtonsRight="xmi"
+#TitleButtonsSupported="sxmi"
+
+TitleBarHeight=19
+BorderSizeX=4
+BorderSizeY=4
+CornerSizeX=22
+CornerSizeY=22
+DlgBorderSizeX=4
+DlgBorderSizeY=4
+#DlgCorner=22
+#DlgCorner=22
+
+ShowMenuButtonIcon=0 # 0/1
+
+# borders
+
+ColorNormalBorder="#6E88AA"
+ColorActiveBorder="#B4C2D4"
+
+# titlebar
+
+ColorActiveTitleBar="#B4C2D4"
+ColorNormalTitleBar="rgb:6E/88/AA"
+ColorNormalTitleBarText="rgb:30/30/30"
+ColorActiveTitleBarText="rgb:30/30/30"
+
+# buttons
+
+ColorNormalButton="#6E88AA"
+ColorActiveButton="#4E71AD"
+
+# menus
+
+ColorNormalMenu="#B4C2D4"
+ColorActiveMenuItem="#B4C2D4"
+ColorNormalMenuItemText="rgb:00/00/00"
+ColorActiveMenuItemText="rgb:00/00/00"
+ColorDisabledMenuItemText="rgb:80/80/80"
+
+# move / size indicator
+
+ColorMoveSizeStatus="rgb:B4/C2/D4"
+ColorMoveSizeStatusText="rgb:00/00/00"
+
+# taskbar
+
+ColorDefaultTaskBar="#6E88AA"
+ColorNormalTaskBarApp="#B4C2D4"
+ColorNormalTaskBarAppText="#000000"
+ColorActiveTaskBarApp="#4E71AD"
+ColorActiveTaskBarAppText="#000000"
+ColorMinimizedTaskBarApp="#6E88AA"
+ColorMinimizedTaskBarAppText="#000000"
+
+# listbox
+
+ColorListBox="#B4C2D4"
+ColorListBoxText="#000000"
+ColorListBoxSelection="#5C7DBD"
+ColorListBoxSelectionText="#000000"
+
+# input
+
+ColorInput="#B4C2D4"
+ColorInputText="#000000"
+ColorInputSelection="#4E71AD"
+ColorInputSelectionText="#000000"

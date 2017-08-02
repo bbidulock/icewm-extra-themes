@@ -1,0 +1,27 @@
+--- Makefile.orig	Sat Jun  5 19:49:42 2004
++++ Makefile	Sat Jun  5 19:46:55 2004
+@@ -28,7 +28,8 @@
+ 		--with-libdir=${DATADIR} \
+ 		--with-kdedatadir=${LOCALBASE}/share \
+ 		--with-docdir=${PREFIX}/share/doc \
+-		--with-mkfontdir=${NONEXISTENT}
++		--with-mkfontdir=${NONEXISTENT} \
++		--enable-gradients
+ 
+ .include <bsd.port.pre.mk>
+ 
+@@ -42,13 +43,9 @@
+ PLIST_SUB+=	GNOMEDESKTOP="@comment "
+ .endif
+ 
+-.if ${HAVE_GNOME:Mimlib}!=""
++
+ USE_GNOME+=	imlib
+ CONFIGURE_ARGS+=	--with-imlib
+-.else
+-USE_XPM=	yes
+-CONFIGURE_ARGS+=	--without-imlib
+-.endif
+ 
+ .if ${HAVE_GNOME:Mesound}!=""
+ USE_GNOME+=	esound

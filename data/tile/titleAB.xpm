@@ -1,0 +1,21 @@
+/* XPM */
+static char * titleAB_xpm[] = {
+"100 15 3 1",
+" 	c #B6DAAEBAB6DA",
+".	c #861782078617",
+"X	c #000051446185",
+"                     .                                                 .                            ",
+".....................X ................................................X ...........................",
+".....................X ................................................X ...........................",
+"XXXXXXXXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXX",
+"    .                                                 .                                             ",
+"....X ................................................X ............................................",
+"XXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+"                                    .                                                 .             ",
+"....................................X ................................................X ............",
+"....................................X ................................................X ............",
+"....................................X ................................................X ............",
+"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.XXXXXXXXXXXX",
+"                                                 .                                                 .",
+" ................................................X ................................................X",
+".XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"};

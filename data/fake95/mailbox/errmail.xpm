@@ -1,0 +1,23 @@
+/* XPM */
+static char * mini_mail_xpm[] = {
+"16 16 4 1",
+" 	c None",
+".	c #000000",
+"o	c #808080",
+"x	c #FF0000",
+"                ",
+"                ",
+"                ",
+" .............  ",
+" .xxxxxxxxxxx.o ",
+" ..xxxxxxxxx..o ",
+" .x.xxxxxxx.x.o ",
+" .xx.xxxxx.xx.o ",
+" .xx..xxx..xx.o ",
+" .x.xx...xx.x.o ",
+" ..xxxxxxxxx..o ",
+" .............o ",
+"  ooooooooooooo ",
+"                ",
+"                ",
+"                "};

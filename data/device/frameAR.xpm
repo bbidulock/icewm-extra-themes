@@ -1,0 +1,13 @@
+/* XPM */
+static char * frameAR_xpm[] = {
+"6 6 4 1",
+" 	c #000000000000",
+".	c #FFFFFFFFFFFF",
+"X	c #AEBABEFBAEBA",
+"o	c #71C6861771C6",
+"  .Xo ",
+"  .Xo ",
+"  .Xo ",
+"  .Xo ",
+"  .Xo ",
+"  .Xo "};

@@ -1,0 +1,53 @@
+prog Rxvt xterm rxvt -bg black -fg green -C -sl 500
+prog Calculator xcalc xcalc
+prog Colormap xcolormap xcmap
+prog xkill bomb xkill
+separator
+
+menu Internet folder {        
+prog Email pine rxvt -fg gold -bg black -e pine -l
+prog News xrn rxvt -e slrn --spool -C -m
+prog Netscape netscape netscape      
+prog Lynx lynx xterm -e lynx
+}
+menu TeXt folder { 
+        prog xfte fte xfte
+        prog nedit nedit nedit 
+        prog Ghostview gv gv
+        prog Xdvi xdvi xdvi -s 20 -fg gold -bg black &    
+        prog "Acrobat Reader" pdf acroread
+        }
+menu Graphics folder { 
+        prog xbmbrowser xbm xbmbrowser
+	prog xv xv xv
+        prog ee ee ee
+        prog Xmorph xmorph xmorph
+        prog Gimp gimp gimp
+        prog XPaint xpaint xpaint
+        prog XFig xfig xfig
+	prog bitmap bitmap bitmap	
+        prog ddd ddd ddd
+        }
+menu Config folder { 
+        prog "Control Panel" redhat control-panel
+        prog Manual xman xman
+        prog Setup linux linuxconf
+        prog xload xload xload
+        prog xosview xosview xosview
+        prog harddisk hdparm rxvt -e \sbin\hdparm - &
+	prog FileRunner fr fr
+	prog MC mc rxvt -e mc
+}
+menu Audio folder { 
+        prog XPlayCD xplaycd xplaycd
+        prog XPlayMidi xplaymidi xplaymidi
+        prog XMixer xmixer xmixer
+        }
+menu Applications folder {        
+    prog "Font Selector" xfontsel xfontsel
+    prog Clock xclock xclock
+    prog Magnify xmag xmag   
+    prog "Screen Saver" xlock xlock -nolock
+    prog "Screen Lock" xlock xlock
+    }
+

@@ -1,0 +1,21 @@
+/* XPM */
+static char * titleIL_xpm[] = {
+"30 12 6 1",
+" 	c #FFFFFFFFFFFF",
+".	c #000000000000",
+"X	c #86178A289658",
+"o	c #AEBABEFBAEBA",
+"O	c #51444D3471C6",
+"+	c #BEFBBEFBBEFB",
+"  .......     .......  X......",
+"oo.......ooooo.......ooOoooooX",
+"+o.......oo++o.......ooOOOOOOO",
+"X+.......oX+X+.......oXO......",
+"+X.......X+X+X.......X+O......",
+"X+.......+X+X+.......+XO......",
+"XX.......XXXXX.......XXO......",
+"XXXXXXXXXXXXXXXXXXXXXXXO......",
+"XXXXXXXXXXXXXXXXXXXXXXXOoooooX",
+"XOXOXOXOXOXOXOXOXOXOXOXOOOOOOO",
+"OOOOOOOOOOOOOOOOOOOOOOOO......",
+".............................."};

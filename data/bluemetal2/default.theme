@@ -1,0 +1,77 @@
+ThemeDescription="BlueMetal2 - A blue theme with a 'metal' style"
+ThemeAuthor="Sawsedge <sawsedge@yahoo.com>"
+#
+#  This one is refined a bit from the original bluemetal. It includes a 
+#  less obnoxious frame, better inactive buttons, adds all of the button 
+#  types, and allows the users ~/.icewm/preferences file to define which 
+#  buttons are used and their location.
+#
+#  I felt that the default cursors looked fine, so I did not add any for 
+#  this theme, making it 1.0.0 compatible.
+
+#Copyright (C) 2001 John Wright <sawsedge@yahoo.com>
+#
+#This program is free software; you can redistribute it and/or
+#modify it under the terms of the GNU General Public License
+#as published by the Free Software Foundation; either version 2
+#of the License, or (at your option) any later version.
+#
+#This program is distributed in the hope that it will be useful,
+#but WITHOUT ANY WARRANTY; without even the implied warranty of
+#MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#GNU General Public License for more details.
+#
+#You should have received a copy of the GNU General Public License
+#along with this program; if not, write to the Free Software
+#Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
+#
+#For more details, see http://www.gnu.org/copyleft/gpl.html.
+
+Look=metal
+
+TitleBarHeight=18
+TitleButtonsSupported="xmisrhd" 
+#TitleButtonsLeft="shdr"
+#TitleButtonsRight="xmi"
+TitleBarCentered=1
+#ShowMenuButtonIcon=0
+
+BorderSizeX=4
+BorderSizeY=5
+CornerSizeX=22
+CornerSizeY=22
+DlgBorderSizeX=3
+DlgBorderSizeY=3
+
+DesktopBackgroundColor="rgb:00/11/44"
+#DesktopBackgroundImage=""
+
+ColorNormalButton="rgb:C0/C0/C0"
+ColorActiveButton="rgb:60/80/90"
+ColorActiveButtonText="rgb:ee/ee/ee"
+
+ColorNormalBorder="rgb:90/90/90"
+ColorActiveBorder="rgb:80/90/a0"
+ColorActiveTitleBar="rgb:b2/b2/b2"
+ColorNormalTitleBar="rgb:b2/b2/b2"
+ColorNormalTitleBarText="rgb:6d/6d/6d"
+ColorActiveTitleBarText="rgb:ee/ee/ee"
+
+ColorNormalMenu="rgb:C0/C0/C0"
+ColorActiveMenuItem="rgb:80/90/A0"
+ColorNormalMenuItemText="rgb:00/00/00"
+ColorActiveMenuItemText="rgb:ee/ee/ee"
+ColorDisabledMenuItemText="rgb:80/80/80"
+
+ColorMoveSizeStatus="rgb:C0/C0/C0"
+ColorMoveSizeStatusText="rgb:00/00/00"
+
+ColorDefaultTaskBar="rgb:b0/b0/b0"
+ColorNormalTaskBarApp="rgb:b9/b9/b9"
+ColorNormalTaskBarAppText="rgb:20/20/20"
+ColorActiveTaskBarApp="rgb:60/80/90"
+ColorActiveTaskBarAppText="rgb:ee/ee/ee"
+ColorMinimizedTaskBarApp="rgb:b0/b0/b0"
+ColorMinimizedTaskBarAppText="rgb:20/20/20"
+ColorInvisibleTaskBarApp="rgb:a0/a0/a0"
+ColorInvisibleTaskBarAppText="rgb:30/30/30"

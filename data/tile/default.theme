@@ -1,0 +1,55 @@
+# this theme was made for icewm 0.9.41
+# graphics for all buttons are included..
+# and looks nice with whatever TitleButtons you want to use
+# in your preferences file
+
+Look=pixmap
+
+TitleBarHeight=15
+
+BorderSizeX=2
+BorderSizeY=8
+CornerSizeX=40
+CornerSizeY=40
+DlgBorderSizeX=2
+DlgBorderSizeY=2
+
+ColorNormalBorder=#666
+ColorActiveBorder=#888
+
+ColorNormalTitleBarText=#000
+ColorActiveTitleBarText=#fff
+
+ColorNormalMenu=#888
+ColorActiveMenuItem=#aaa
+ColorNormalMenuItemText=#000
+ColorActiveMenuItemText=#ffffff
+ColorDisabledMenuItemText=#444
+
+ColorMoveSizeStatus=#888
+ColorMoveSizeStatusText=#fff
+
+ColorDefaultTaskBar=#888
+ColorNormalTaskBarApp=#888
+ColorNormalTaskBarAppText=#000
+ColorActiveTaskBarApp=#aaa
+ColorActiveTaskBarAppText=#fff
+ColorMinimizedTaskBarApp=#666
+ColorMinimizedTaskBarAppText=#000
+
+DesktopBackgroundColor=""
+
+ColorNormalButton=#888
+ColorNormalButtonText=#000
+ColorActiveButton=#aaa
+ColorActiveButtonText=#ffffff
+
+ColorClock=#888
+ColorClockText=#Fff
+
+TitleFontName="-b&h-lucida-bold-r-normal-sans-*-120-*-*-p-*-iso8859-*"
+#MenuFontName="-b&h-lucida-medium-r-*-*-*-*-*-*-*-*-*-*"
+#NormalTaskBarFontName="-b&h-lucida-medium-r-*-*-*-*-*-*-*-*-*-*"
+#ActiveTaskBarFontName="-b&h-lucida-medium-r-*-*-*-*-*-*-*-*-*-*"
+
+

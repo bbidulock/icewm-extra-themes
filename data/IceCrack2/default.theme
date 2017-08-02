@@ -1,0 +1,119 @@
+# This theme is a modification of the IceCrack theme, to match the colors
+# of the Phoenity Neo theme form Phoenix. 
+#
+# The IceCrack theme, in turn, is based on the TigertCrack metacity theme.
+#
+# The original theme is at: http://tigert.gimp.org/files/metacity/
+# This theme is available at: 
+#	http://www.c7obs.net/~david/stuff/
+#
+# As usual, this is distributable under the terms of the GNU Public License.
+
+ThemeDescription="IceCrack /2.1.0 (BlueCrack)"
+ThemeAuthor="David Lazar <david_bv#yahoo,com>"
+Look=metal
+
+TitleButtonsLeft="s"
+TitleButtonsRight="xmi"
+TitleButtonsSupported="sxmi"
+TitleBarCentered=1
+TitleBarHeight=17
+
+BorderSizeX=2
+BorderSizeY=2
+CornerSizeX=28
+CornerSizeY=28
+DlgBorderSizeX=2
+DlgBorderSizeY=2
+
+MenuMouseTracking=1 
+MenuActivateDelay=1
+SubmenuMenuActivateDelay=1
+
+ColorNormalButton="rgb:dd/e3/eb"
+ColorNormalButtonText="rgb:00/00/00"
+ColorActiveButton="rgb:90/a1/b3"
+ColorActiveButtonText="rgb:00/00/00"
+
+ColorNormalTitleBarText="rgb:3c/41/4b"
+ColorActiveTitleBarText="rgb:ff/ff/ff"
+ColorActiveBorder="rgb:c7/d0/d9"
+ColorNormalBorder="rgb:c7/d0/d9"
+
+ColorDialog="rgb:c7/d0/d9"
+ColorListBox="rgb:dd/e3/eb"
+ColorListBoxText="rgb:00/00/00"
+ColorListBoxSelection="rgb:42/4f/63"
+ColorListBoxSelectionText="rgb:ff/ff/ff"
+ColorScrollBar="rgb:98/9e/a6"
+ColorScrollBarSlider="rgb:b1/bb/c5"
+ColorScrollBarButton="rgb:b1/bb/c5"
+ColorScrollBarButtonArrow="rgb:00/00/00"
+ColorLabel="rgb:c7/d0/d9"
+ColorLabelText="rgb:00/00/00"
+
+ColorNormalMenu="rgb:dd/e3/eb"
+ColorActiveMenuItem="rgb:42/4f/63"
+ColorNormalMenuItemText="rgb:00/00/00"
+ColorActiveMenuItemText="rgb:ff/ff/ff"
+ColorDisabledMenuItemText="rgb:8c/99/ab"
+
+ColorDefaultTaskBar="rgb:dd/e3/eb"
+ColorNormalTaskBarApp="rgb:dd/e3/eb"
+ColorNormalTaskBarAppText="rgb:00/00/00"
+ColorActiveTaskBarApp="rgb:c7/d0/d9"
+ColorActiveTaskBarAppText="rgb:00/00/00"
+ColorMinimizedTaskBarApp="rgb:aa/b6/c4"
+ColorMinimizedTaskBarAppText="rgb:00/00/00"
+
+ColorInput="rgb:ff/ff/ff"
+ColorInputText="rgb:00/00/00"
+ColorClock="rgb:dd/e3/eb"
+ColorClockText="rgb:00/00/00"
+ColorCPUStatusUser="rgb:00/00/00"
+ColorCPUStatusSystem="rgb:6b/78/87"
+ColorCPUStatusNice="rgb:ff/ff/ff"
+ColorCPUStatusIdle="rgb:dd/e3/eb"
+ColorNetSend="rgb:6b/78/87"
+ColorNetReceive="rgb:00/00/00"
+ColorNetIdle="rgb:dd/e3/eb"
+
+ColorToolTip="rgb:ff/ff/e7"
+ColorToolTipText="rgb:00/00/00"
+ColorMoveSizeStatus="rgb:dd/e3/eb"
+ColorMoveSizeStatusText="rgb:00/00/00"
+ColorQuickSwitch="rgb:dd/e3/eb"
+ColorQuickSwitchText="rgb:00/00/00"
+
+# Font Specification
+TitleFontName		=	"-artwiz-snap-regular-r-normal-sans-10-*-*-*-*-*-iso8859-1"
+MenuFontName		=	"-artwiz-snap-regular-r-normal-sans-10-*-*-*-*-*-iso8859-1"
+MinimizedWindowFontName	=	"-artwiz-snap-regular-r-normal-sans-10-*-*-*-*-*-iso8859-1"
+ActiveButtonFontName	=	"-artwiz-snap-regular-r-normal-sans-10-*-*-*-*-*-iso8859-1"
+NormalButtonFontName	=	"-artwiz-snap-regular-r-normal-sans-10-*-*-*-*-*-iso8859-1"
+QuickSwitchFontName	=	"-artwiz-snap-regular-r-normal-sans-10-*-*-*-*-*-iso8859-1"
+ListBoxFontName		=	"-artwiz-snap-regular-r-normal-sans-10-*-*-*-*-*-iso8859-1"
+StatusFontName		=	"-artwiz-snap-regular-r-normal-sans-10-*-*-*-*-*-iso8859-1"
+ToolTipFontName		=	"-artwiz-snap-regular-r-normal-sans-10-*-*-*-*-*-iso8859-1"
+ActiveTaskBarFontName	=	"-artwiz-snap-regular-r-normal-sans-10-*-*-*-*-*-iso8859-1"
+NormalTaskBarFontName	=	"-artwiz-snap-regular-r-normal-sans-10-*-*-*-*-*-iso8859-1"
+ClockFontName		=	"-b&h-lucida-bold-r-normal-sans-14-*"
+
+# XFT fonts
+TitleFontNameXft = "Sans:size=10:bold"
+MenuFontNameXft = "Sans:size=10"
+MinimizedWindowFontNameXft = "Sans:size=10"
+ActiveButtonFontNameXft = "Sans:size=10"
+LabelFontNameXft = "Sans:size=10"
+NormalButtonFontNameXft = "Sans:size=10"
+QuickSwitchFontNameXft = "Sans:size=10"
+ListBoxFontNameXft = "Sans:size=10"
+StatusFontNameXft = "Sans:size=10"
+ToolTipFontNameXft = "Sans:size=10"
+ActiveTaskBarFontNameXft = "Sans:size=10:bold"
+NormalTaskBarFontNameXft = "Sans:size=10"
+ClockFontNameXft = "sans-serif:size=12:bold"
+ApmFontNameXft = "sans-serif:size=10"
+
+ShowMenuButtonIcon=0
+TaskBarClockLeds=1

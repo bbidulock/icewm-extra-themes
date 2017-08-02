@@ -1,0 +1,82 @@
+# system.icewmrc
+
+FocusOnClickClient=1
+RaiseOnClickClient=1
+RaiseOnClickButton=1
+RaiseOnClickFrame=1
+RaiseOnClickTitleBar=1
+PassFirstClickToClient=1
+
+#### ClickFocus ###
+ClickToFocus=1
+RaiseOnFocus=1
+FocusOnMap=1
+
+#### PointerFocus ###
+#ClickToFocus=0
+#RaiseOnFocus=0
+
+#### ExplicitFocus ###
+#ClickToFocus=1
+#RaiseOnFocus=0
+#FocusOnMap=0
+#FocusOnMapTransient=1
+
+PointerColormap=1
+SizeMaximized=0
+WarpPointer=0 # 1=buggy
+OpaqueMove=0
+OpaqueResize=0
+Win95Keys=0
+ShowTaskBar=1
+ShowTaskBarClock=1
+PrettyClock=1
+ShowMailBoxStatus=1
+BeepOnNewMail=1
+TaskBarAtTop=0
+TaskBarShowAllWindows=0
+TaskBarShowWorkspaces=1
+ManualPlacement=0
+
+TimeFormat="%H:%M:%S"
+#TimeFormat="%I:%M%p"
+DateFormat="%A %Y/%m/%d %H:%M:%S %Z"
+
+# in addition to builtin paths (~/icewm/icons, ...)
+IconPath="/home/rragas/icons"
+
+DlgBorderSizeX=2
+DlgBorderSizeY=2
+BorderSizeX=2
+BorderSizeY=2
+CornerSizeX=12
+CornerSizeY=12
+
+TitleFontName="-adobe-helvetica-medium-r-*-*-*-120-*-*-*-*-*-*"
+MenuFontName="-adobe-helvetica-medium-r-*-*-*-120-*-*-*-*-*-*"
+StatusFontName="-adobe-courier-medium-r-*-*-*-140-*-*-*-*-*-*"
+QuickSwitchFontName="-adobe-courier-medium-r-*-*-*-140-*-*-*-*-*-*"
+NormalTaskBarFontName="-adobe-helvetica-medium-r-*-*-*-120-*-*-*-*-*-*"
+ActiveTaskBarFontName="-adobe-helvetica-bold-r-*-*-*-120-*-*-*-*-*-*"
+WindowListFontName="-adobe-helvetica-medium-r-*-*-*-120-*-*-*-*-*-*"
+
+#TitleFontName="-b&h-lucida-bold-r-*-*-*-120-*-*-*-*-*-*"
+#MenuFontName="-b&h-lucida-bold-r-*-*-*-120-*-*-*-*-*-*"
+#StatusFontName="-b&h-lucidatypewriter-bold-r-*-*-*-120-*-*-*-*-*-*"
+#QuickSwitchFontName="-b&h-lucidatypewriter-bold-r-*-*-*-140-*-*-*-*-*-*"
+#NormalTaskBarFontName="-b&h-lucidatypewriter-medium-r-*-*-*-120-*-*-*-*-*-*"
+#ActiveTaskBarFontName="-b&h-lucida-bold-r-*-*-*-120-*-*-*-*-*-*"
+#WindowListFontName="-b&h-lucida-medium-r-*-*-*-120-*-*-*-*-*-*"
+
+MailCommand="rxvt -T Email -fg gold -bg black -e pine -l"
+LockCommand=xlock
+ClockCommand="sh -c 'xclock -geometry 200x200'"
+
+Theme=monte-carlo/default.theme
+
+AddWorkspace=" 1 "
+AddWorkspace=" 2 "
+AddWorkspace=" 3 "
+AddWorkspace=" 4 "
+AddWorkspace=" 5 "
+AddWorkspace=" 6 "

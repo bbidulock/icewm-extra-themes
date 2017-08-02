@@ -1,0 +1,46 @@
+ThemeAuthor="Jakub Steiner"
+ThemeDescription="Advertisement for MacOS"
+Look=metal
+TitleBarHeight=17
+
+BorderSizeX=2
+BorderSizeY=2
+CornerSizeX=16
+CornerSizeY=16
+DlgBorderSizeX=2
+DlgBorderSizeY=2
+
+TitleFontName="-2rebels-chicago-medium-r-normal-*-*-120-*-*-p-*-ascii-0"
+NormalTaskBarFontName="-2rebels-chicago-medium-r-normal-*-*-120-*-*-p-*-ascii-0"
+ActiveTaskBarFontName="-2rebels-chicago-medium-r-normal-*-*-120-*-*-p-*-ascii-0"
+
+DesktopBackgroundCenter=1 # 0/1
+DesktopBackgroundColor="rgb:63/71/8C"
+DesktopBackgroundImage="bcg.xpm"
+
+ColorNormalBorder="rgb:DD/DD/DD"
+ColorActiveBorder="rgb:DD/DD/DD"
+ColorActiveTitleBar="rgb:CC/CC/CC"
+ColorNormalTitleBar="rgb:CC/CC/CC"
+ColorNormalButton="#CCCCCC"
+ColorActiveButton="#CCCCCC"
+ColorNormalTitleBarText="rgb:80/80/80"
+ColorActiveTitleBarText="rgb:00/00/00"
+ColorNormalMenu="#DDDDDD"
+ColorActiveMenuItem="#CCCCCC"
+ColorNormalMenuItemText="rgb:00/00/00"
+ColorActiveMenuItemText="#206080"
+ColorDisabledMenuItemText="rgb:80/80/80"
+ColorMoveSizeStatus="rgb:DD/DD/DD"
+ColorMoveSizeStatusText="rgb:00/00/00"
+ColorDefaultTaskBar="rgb:DD/DD/DD"
+ColorNormalTaskBarApp="rgb:DD/DD/DD"
+ColorNormalTaskBarAppText="rgb:00/00/00"
+ColorActiveTaskBarApp="#CCCCCC"
+ColorActiveTaskBarAppText="#206080"
+ColorMinimizedTaskBarApp="#A0A0A0"
+ColorMinimizedTaskBarAppText="#F0F0FF"
+ColorListBox=#CCCCCC
+ColorListBoxText=#000000
+ColorListBoxSelection=#CCCCFF
+ColorListBoxSelectionText=#000000

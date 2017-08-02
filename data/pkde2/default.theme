@@ -1,0 +1,52 @@
+ThemeDescription="Purple KDE-ish look part 2; a few refinements from pkde"
+ThemeAuthor="Sawsedge <sawsedge@yahoo.com>"
+
+Look=gtk
+
+TitleBarHeight=18
+TitleBarCentered=1
+   # uses buttons and locations from user's preferences
+TitleButtonsSupported="xmirshd"  
+#TitleButtonsLeft="sdhr" 
+#TitleButtonsRight="xmi"
+
+BorderSizeX=4
+BorderSizeY=5
+CornerSizeX=22
+CornerSizeY=22
+DlgBorderSizeX=3
+DlgBorderSizeY=3
+
+DesktopBackgroundColor="rgb:00/55/66"
+#DesktopBackgroundImage=""
+ColorNormalBorder="rgb:b0/b0/b0"
+ColorActiveBorder="rgb:c0/c0/c0"  #"rgb:80/00/83" #67/3e/77
+
+ColorActiveTitleBar="rgb:aa/33/aa"
+ColorNormalTitleBar="rgb:a0/a0/a0"
+ColorNormalTitleBarText="rgb:80/80/80"
+ColorActiveTitleBarText="rgb:ee/ee/ee"
+
+ColorNormalMenu="rgb:C0/C0/C0"
+ColorActiveMenuItem="rgb:68/40/75" #"rgb:c6/a0/c6"
+ColorNormalMenuItemText="rgb:00/00/00"
+ColorActiveMenuItemText="rgb:dd/dd/dd"
+ColorDisabledMenuItemText="rgb:80/80/80"
+
+ColorMoveSizeStatus="rgb:C0/C0/C0"
+ColorMoveSizeStatusText="rgb:00/00/00"
+
+ColorNormalButton="rgb:C0/C0/C0"
+ColorNormalButtonText="rgb:00/00/00"
+ColorActiveButton="rgb:68/40/75"
+ColorActiveButtonText="rgb:ee/ee/ee"
+
+ColorDefaultTaskBar="rgb:C0/c0/C0"
+ColorNormalTaskBarApp="rgb:c0/c0/c0"
+ColorNormalTaskBarAppText="rgb:30/30/30"
+ColorActiveTaskBarApp="rgb:68/40/75"
+ColorActiveTaskBarAppText="rgb:dd/dd/dd"
+ColorMinimizedTaskBarApp="rgb:b7/b7/b7"
+ColorMinimizedTaskBarAppText="rgb:30/30/30"
+ColorInvisibleTaskBarApp="rgb:a0/a0/a0"
+ColorInvisibleTaskBarAppText="rgb:30/30/30"

@@ -1,0 +1,40 @@
+/* XPM */
+static char *noname[] = {
+/* width height ncolors chars_per_pixel */
+"27 27 6 1",
+/* colors */
+"` c #000000",
+"a c #C0C0C0",
+"b c #909090",
+"c c #808080",
+"d c #000080",
+"e c #606060",
+/* pixels */
+"babbedddddddddddddddddddddd",
+"beeeedddddddddddddddddddddd",
+"`````dddddddddddddddddddddd",
+"bbbbbdddddddddddddddddddddd",
+"baaaedddddddddddddddddddddd",
+"babbedddddddddddddddddddddd",
+"babbedddddddddddddddddddddd",
+"babbedddddddddddddddddddddd",
+"babbedddddddddddddddddddddd",
+"babbedddddddddddddddddddddd",
+"babbedddddddddddddddddddddd",
+"babbedddddddddddddddddddddd",
+"babbedddddddddddddddddddddd",
+"babbedddddddddddddddddddddd",
+"babbedddddddddddddddddddddd",
+"babbedddddddddddddddddddddd",
+"babbedddddddddddddddddddddd",
+"babbedddddddddddddddddddddd",
+"babbedddddddddddddddddddddd",
+"babbedddddddddddddddddddddd",
+"babbedddddddddddddddddddddd",
+"babbedddddddddddddddddddddd",
+"babbebbbbbbbbbbbbbbbbbbb`bb",
+"babbaaaaaaaaaaaaaaaaaaac`ba",
+"babbbbbbbbbbbbbbbbbbbbbc`ba",
+"babbbbbbbbbbbbbbbbbbbbbc`ba",
+"bccccccccccccccccccccccc`be"
+};

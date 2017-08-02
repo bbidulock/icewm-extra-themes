@@ -1,0 +1,19 @@
+BluePlastic theme for IceWm by Xavier Bourvellec (slowleon@yahoo.com)
+
+Ok, it's my first one... I'm ok for any suggestion, nice modifications
+you did, etc.
+
+Misc: Currently, i don't like the way i did active window pixmaps. too
+blue, not enough differences with inactive ones. Again, any suggestion/
+diea/etc. are welcome: time is short, and RealLife too present during
+summer. 
+
+Notes: there's a variant for active window titleBar: titleAB.xpm.otherOne.
+This add a kind of 
+
+Funny: making a theme take far more time that i expected... Thanks for
+all Gimp people and it's nice scripting features!
+
+Thanks: For iceWm, of course!
+
+Changes: Monthes after (18 feb 1999), modified a bit some pixmaps...

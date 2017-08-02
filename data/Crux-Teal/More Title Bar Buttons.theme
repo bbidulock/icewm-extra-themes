@@ -1,0 +1,117 @@
+# Crux Teal
+
+ThemeDescription	=	"Port of Sawfish Crux theme to match GTK 				 theme of the same name"
+ThemeAuthor		=	"Alethes (nathan@alethes.net)"
+Look			=	metal
+
+# buttons
+TitleButtonsLeft	=	"s"
+TitleButtonsRight	=	"xmirhd"
+TitleButtonsSupported	=	"xmisrhd"
+ShowMenuButtonIcon	=	0
+
+# Task bar clock uses nice pixmapped LCD display
+TaskBarClockLeds	=	0
+ColorClock		=	"#dddddd"
+ColorClockText		=	"#000000"
+
+# titlebar
+TitleBarHeight		=	16
+
+# frame
+BorderSizeX		=	3
+BorderSizeY		=	1
+CornerSizeX		=	30
+CornerSizeY		=	30
+DlgBorderSizeX		=	2
+DlgBorderSizeY		=	2
+
+# colors
+ColorNormalTitleBarText	=	"#000000"
+ColorActiveTitleBarText	=	"#ffffff"
+ColorNormalTitleBar	=	"#dddddd"
+ColorActiveTitleBar	=	"#3a6a6d"
+
+ColorNormalBorder	=	"#dddddd"
+ColorActiveBorder	=	"#3a6a6d"
+
+ColorNormalButtonText	=	"#000000"
+ColorNormalButton	=	"#dddddd"
+ColorActiveButtonText	=	"#000000"
+ColorActiveButton	=	"#dddddd"
+
+ColorNormalMenu		=	"#dddddd"
+ColorNormrhdalMenuItemText	=	"#000000"
+ColorActiveMenuItem	=	"#3b6c6e"
+ColorActiveMenuItemText	=	"#ffffff"
+ColorDisabledMenuItemText	=	"#999999"
+
+ColorInput		=	"#ffffff"
+ColorInputText		=	"#000000"
+ColorInputSelection	=	"#3b6c6e"
+ColorInputSelectionText	=	"#ffffff"
+
+
+
+ColorQuickSwitch	=	"#dddddd"
+ColorQuickSwitchText	=	"#000000"
+
+# taskbar colors
+ColorDefaultTaskBar		=	"#dddddd"
+ColorNormalTaskBarApp		=	"#dddddd"
+ColorNormalTaskBarAppText	=	"#000000"
+ColorActiveTaskBarApp		=	"#dddddd"
+ColorActiveTaskBarAppText	=	"#000000"
+ColorMinimizedTaskBarApp	=	"#dddddd"
+ColorMinimizedTaskBarAppText	=	"#000000"
+ColorInvisibleTaskBarApp	=	"#dddddd"
+ColorInvisibleTaskBarAppText	=	"#999999"
+
+
+ColorMoveSizeStatus		=	"#dddddd"
+ColorMoveSizeStatusText		=	"#000000"
+
+ColorListBox			=	"#dddddd"
+ColorListBoxText		=	"#000000"
+ColorListBoxSelection		=	"#3b6c6e"
+ColorListBoxSelectionText	=	"#ffffff"
+ColorScrollBar			=	"#999999"
+ColorScrollBarArrow		=	"#999999"
+ColorScrollBarSlider		=	"#3a6a6d"
+ColorLabel			=	"#dddddd"
+ColorLabelText			=	"#000000"
+ColorDialog			=	"#dddddd"
+
+ColorNormalMinimizedWindow	=	"#dddddd"
+ColorNormalMinimizedWindowText	=	"#000000"
+ColorActiveMinimizedWindow	=	"#dddddd"
+ColorActiveMinimizedWindowText	=	"#000000"
+
+DesktopBackgroundColor	=	"#000000"
+DesktopBackgroundImage	=	""
+
+ColorToolTip		=	"#dddddd"
+ColorToolTipText	=	"#000000"
+
+ColorCPUStatusSystem="#990000"
+ColorCPUStatusUser="#000099"
+ColorCPUStatusNice="#3b6c6e"
+ColorCPUStatusIdle="#dddddd"
+ColorNetReceive="#3b6c6e"
+ColorNetSend="#990000"
+ColorNetIdle="#dddddd"
+
+
+# Font Specification
+TitleFontName 	= 	"-adobe-helvetica-medium-r-normal-*-*-100-*-*-p-*-iso8859-1"
+ClockFontName	=       "-adobe-helvetica-medium-r-normal-*-*-100-*-*-p-*-iso8859-1"
+MenuFontName 	= 	"-adobe-helvetica-medium-r-normal-*-*-100-*-*-p-*-iso8859-1"
+MinimizedWindowFontName 	= 	"-adobe-helvetica-medium-r-normal-*-*-80-*-*-p-*-iso8859-1"
+ActiveButtonFontName	=	"-adobe-helvetica-medium-r-normal-*-*-100-*-*-p-*-iso8859-1"
+NormalButtonFontName	=	"-adobe-helvetica-medium-r-normal-*-*-100-*-*-p-*-iso8859-1"
+QuickSwitchFontName	=	"-adobe-helvetica-medium-r-normal-*-*-100-*-*-p-*-iso8859-1"
+ListBoxFontName	= 	"-adobe-helvetica-medium-r-normal-*-*-100-*-*-p-*-iso8859-1"
+StatusFontName	= 	"-adobe-helvetica-medium-r-normal-*-*-100-*-*-p-*-iso8859-1"
+ToolTipFontName	= 	"-adobe-helvetica-medium-r-normal-*-*-80-*-*-p-*-iso8859-1"
+LabelFontName	=	"-adobe-helvetica-medium-r-normal-*-*-100-*-*-p-*-iso8859-1"
+InputFontName	=	"-adobe-helvetica-medium-r-normal-*-*-100-*-*-p-*-iso8859-1"

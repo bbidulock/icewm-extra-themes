@@ -1,0 +1,143 @@
+# licensed under GPL
+# (c) by Micha³ Szota <michal@k.pl>
+
+ThemeDescription="Aeteria_default/1.0.7"
+ThemeAuthor="Micha³ Szota <michal@k.pl>"
+Look=metal
+
+
+# BACKGROUND
+# suggested background color for you, pixmap haters
+# DesktopBackgroundColor="#656565"
+# choose bg-800.jpg, bg-1024.jpg or bg-1280.jpg
+DesktopBackgroundImage="bg-800.jpg"
+
+# FONT
+# default: lucida 
+TitleFontName="-*-lucida-medium-r-*-*-12-*-*-*-*-*-*-*"
+MenuFontName="-*-lucida-medium-r-*-*-10-*-*-*-*-*-*-*"
+MinimizedWindowFontName="-*-lucida-medium-r-*-*-10-*-*-*-*-*-*-*"
+ActiveButtonFontName="-*-lucida-medium-r-*-*-10-*-*-*-*-*-*-*"
+NormalButtonFontName="-*-lucida-medium-r-*-*-10-*-*-*-*-*-*-*"
+QuickSwitchFontName="-*-lucida-medium-r-*-*-10-*-*-*-*-*-*-*"
+ListBoxFontName="-*-lucida-medium-r-*-*-10-*-*-*-*-*-*-*"
+StatusFontName="-*-lucida-medium-r-*-*-10-*-*-*-*-*-*-*"
+ToolTipFontName="-*-lucida-medium-r-*-*-10-*-*-*-*-*-*-*"
+ActiveTaskBarFontName="-*-lucida-medium-r-*-*-10-*-*-*-*-*-*-*"
+NormalTaskBarFontName="-*-lucida-medium-r-*-*-10-*-*-*-*-*-*-*"
+ClockFontName="-*-lucida-bold-r-*-*-10-*-*-*-*-*-*-*"
+
+# uncomment these to set font to helvetica
+#TitleFontName="-*-helvetica-medium-r-*-*-12-*-*-*-*-*-*-*"
+#MenuFontName="-*-helvetica-medium-r-*-*-10-*-*-*-*-*-*-*"
+#MinimizedWindowFontName="-*-helvetica-medium-r-*-*-10-*-*-*-*-*-*-*"
+#ActiveButtonFontName="-*-helvetica-medium-r-*-*-10-*-*-*-*-*-*-*"
+#NormalButtonFontName="-*-helvetica-medium-r-*-*-10-*-*-*-*-*-*-*"
+#QuickSwitchFontName="-*-helvetica-medium-r-*-*-10-*-*-*-*-*-*-*"
+#ListBoxFontName="-*-helvetica-medium-r-*-*-10-*-*-*-*-*-*-*"
+#StatusFontName="-*-helvetica-medium-r-*-*-10-*-*-*-*-*-*-*"
+#ToolTipFontName="-*-helvetica-medium-r-*-*-10-*-*-*-*-*-*-*"
+#ActiveTaskBarFontName="-*-helvetica-medium-r-*-*-10-*-*-*-*-*-*-*"
+#NormalTaskBarFontName="-*-helvetica-medium-r-*-*-10-*-*-*-*-*-*-*"
+#ClockFontName="-*-helvetica-bold-r-*-*-10-*-*-*-*-*-*-*"
+
+# TASKBAR
+# if you want to have this ugly^Woverbloat^W double-sized taskbar,
+# uncomment this:
+# TaskBarDoubleHeight=1
+
+ShowMenuButtonIcon=0
+MenuMouseTracking=1 
+
+TitleButtonsSupported="xmir"
+TitleButtonsLeft="x"
+TitleButtonsRight="mi"
+
+TitleBarHeight=21
+TitleBarCentered=1
+
+BorderSizeX=3
+BorderSizeY=3
+CornerSizeX=16
+CornerSizeY=16
+DlgBorderSizeX=2
+DlgBorderSizeY=2
+
+ColorNormalBorder="#606060"
+ColorActiveBorder="#000000"
+
+ColorActiveTitleBar="#CCCCCC"
+ColorNormalTitleBar="#EEEEEE"
+ColorActiveTitleBarText="#FFFFFF"
+ColorNormalTitleBarText="#FFFFFF"
+
+ColorNormalButton="#004400"
+ColorNormalButtonText="#80A080"
+ColorActiveButton="#007000"
+ColorActiveButtonText="#EEEEEE"
+ColorDialog="#000000"
+
+ColorNormalMenu="#005500"
+ColorActiveMenuItem="#000000"
+ColorNormalMenuItemText="#FFFFFF"
+ColorActiveMenuItemText="#00FF00"
+ColorDisabledMenuItemText="#408040"
+
+# slider
+
+ColorScrollBar="#007000"
+ColorScrollBarSlider="#00A000"
+ColorScrollBarButton="#000000"
+ColorScrollBarButtonArrow="#00EE00"
+
+# listbox
+
+ColorListBox="#005500"
+ColorListBoxText="#FFFFFF"
+ColorListBoxSelection="#000000"
+ColorListBoxSelectionText="#00FF00"
+
+# move / size indicator
+
+ColorMoveSizeStatus="#006000"
+ColorMoveSizeStatusText="#EEFFEE"
+
+ColorToolTip="#336333"
+ColorToolTipText="#FFFFFF"
+
+# taskbar
+
+ColorDefaultTaskBar="#000000"
+ColorNormalTaskBarApp="#004400"
+ColorNormalTaskBarAppText="#CCCCCC"
+ColorActiveTaskBarApp="#007000"
+ColorActiveTaskBarAppText="#FFFFFF"
+ColorMinimizedTaskBarApp="#000000"
+ColorMinimizedTaskBarAppText="#00AA00"
+
+# input
+
+ColorInput="#000000"
+ColorInputText="#FFFFFF"
+ColorInputSelection="#00FF00"
+ColorInputSelectionText="#000000"
+
+# label
+
+ColorLabel="#000000"
+ColorLabelText="#EEFFEE"
+
+# monitors
+
+TaskBarClockLeds=0
+ColorClock="#000000"
+ColorClockText="#EEFFEE"
+
+ColorCPUStatusUser="#00FF00"
+ColorCPUStatusSystem="#55FF55"
+ColorCPUStatusNice="#BBFFBB"
+ColorCPUStatusIdle="#000000"
+ColorNetSend="#BBFFBB"
+ColorNetReceive="#55FF55"
+ColorNetIdle="#000000"
+

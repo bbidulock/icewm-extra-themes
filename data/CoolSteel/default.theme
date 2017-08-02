@@ -1,0 +1,113 @@
+ThemeDescription="CoolSteel (shaped BlueSteel for Ice)"
+ThemeAuthor="Bas Leerintveld, Daniel Erat. Mathias Hasselmann"
+Gradients="titleIB.xpm titleAB.xpm buttonA.xpm buttonI.xpm \
+	menubg.xpm dialogbg.xpm logoutbg.xpm switchbg.xpm taskbarbg.xpm \
+	taskbuttonbg.xpm taskbuttonactive.xpm taskbuttonminimized.xpm \
+	toolbuttonbg.xpm workspacebuttonbg.xpm workspacebuttonactive.xpm"
+Look=pixmap
+
+TitleButtonsSupported="xmis"
+
+TaskBarClockLeds=0
+
+TitleButtonsLeft="x"
+TitleButtonsRight="smi"
+TitleBarHeight=20
+TitleBarJustify=0
+TitleBarVertOffset=-1
+
+BorderSizeX=7
+BorderSizeY=7
+CornerSizeX=16
+CornerSizeY=16
+DlgBorderSizeX=2
+DlgBorderSizeY=2
+
+ColorNormalTitleBarText="#999999"
+ColorNormalTitleBarShadow="#333333"
+ColorActiveTitleBarText="#ffffff"
+ColorActiveTitleBarShadow="#000033"
+
+ColorActiveBorder="#a09ca8"
+ColorNormalBorder="#787478"
+
+ColorNormalButton="#666670"
+ColorNormalButtonText="#cccccc"
+ColorNormalButtonText="#000000"
+ColorActiveButton="#606068"
+ColorActiveButtonText="#999999"
+ColorActiveButtonText="#000000"
+
+ColorNormalMenu="#b4b2b4"
+ColorActiveMenuItem=""
+
+ColorNormalMenuItemText="#000000"
+ColorActiveMenuItemText="#000000"
+ColorDisabledMenuItemText="#b8b8b8"
+
+ColorDefaultTaskBar="#666670"
+ColorNormalTaskBarApp="#666670"
+#ColorNormalTaskBarAppText="#cccccc"
+
+ColorActiveTaskBarApp="#606068"
+ColorActiveTaskBarAppText="#cccccc"
+
+ColorInvisibleTaskBarApp="#666670"
+ColorInvisibleTaskBarAppText="#808080"
+
+ColorMinimizedTaskBarApp="#666670"
+ColorMinimizedTaskBarAppText="#000000"
+
+ColorInput="#666670"
+ColorInputText="#cccccc"
+ColorMoveSizeStatus="#b4b2b4"
+ColorMoveSizeStatusText="#000000"
+
+ColorQuickSwitch="#b4b2b4"
+ColorQuickSwitchText="#e4e2e4"
+ColorDialog="#b4b2b4"
+ColorListBox="#b4b2b4"
+ColorListBoxText="#000000"
+ColorListBoxSelection="#4A526A"
+ColorListBoxSelectionText="#FFFFFF"
+ColorScrollBar="#b4b2b4"
+ColorScrollBarArrow="#b4b2b4"
+ColorScrollBarSlider="#b4b2b4"
+ColorScrollBarButtonArrow="#000000"
+ColorLabel="#b4b2b4"
+ColorLabelText="#000000"
+
+#ColorClock="#666670"
+ColorClock=""
+ColorClockText="#b4b2b4"
+
+#ColorCPUStatusIdle="#666670"
+ColorCPUStatusIdle=""
+ColorCPUStatusUser="#66ff70"
+ColorCPUStatusNice="#ffcc70"
+ColorCPUStatusSystem="#ff6670"
+
+#ColorNetIdle="#666670"
+ColorNetIdle=""
+ColorNetSend="#6666e0"
+ColorNetReceive="#66ff70"
+
+ColorToolTip="#a09ca8"
+
+FxFontName	      = "-adobe-helvetica-bold-o-normal-*-20-*-*-*-p-*-*-*"
+NormalButtonFontName  = "-adobe-helvetica-medium-r-normal-*-12-*-*-*-p-*-*-*"
+ClockFontName         = "-adobe-helvetica-medium-r-normal-*-10-*-*-*-p-*-*-*"
+MenuFontName          = "-adobe-helvetica-medium-r-normal-*-12-*-*-*-p-*-*-*"
+StatusFontName        = "-adobe-helvetica-medium-r-normal-*-12-*-*-*-p-*-*-*"
+TitleFontName         = "-adobe-helvetica-bold-r-normal-*-12-*-*-*-p-*-*-*"
+ToolTipFontName       =	"-adobe-helvetica-medium-r-normal-*-12-*-*-*-p-*-*-*"
+ActiveTaskBarFontName = "-adobe-helvetica-medium-r-normal-*-12-*-*-*-p-*-*-*"
+NormalTaskBarFontName = "-adobe-helvetica-medium-r-normal-*-12-*-*-*-p-*-*-*"
+QuickSwitchFontName   = "-adobe-helvetica-bold-r-normal-*-18-*-*-*-p-*-*-*"
+InputFontName	      = "-adobe-courier-medium-r-normal-*-*-120-*-*-m-*-*-*"
+
+ShowMenuButtonIcon=0
+
+MenuFontName          = "-adobe-courier-medium-r-normal-*-12-*-*-*-m-*-*-*,\
+			 -monotype-monotype sans wt j-medium-r-normal--12-*-*-*-*-*-*-*"
+#MenuFontName          = "-monotype-monotype sans wt j-medium-r-normal--12-*-*-*-*-*-*-*"

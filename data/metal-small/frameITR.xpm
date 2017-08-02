@@ -1,0 +1,27 @@
+/* XPM */
+static char *frameATR[] = {
+/* width height num_colors chars_per_pixel */
+"14 14 6 1",
+/* colors */
+". c #ffffff",
+"# c #ccccff",
+"a c #9999cc",
+"b c #666666",
+"c c #000000",
+"d c #c0c0c0",
+/* pixels */
+"bbbbbbbbbbbbbd",
+"abbbbbbbbbbbbb",
+"cbbbbbbbbbbbbb",
+"bbbbbbbbbbbbbb",
+".........bbbbb",
+"#########abbbb",
+"#########abbbb",
+"aaaaaa###abbbb",
+"bbbbbb.##abbbb",
+"aaabbb.##abbbb",
+"aabbbb.##abbbb",
+"bbbb#b.##abbbb",
+"bbb##b.##abbbb",
+"bb###b.##abaaaab"
+};

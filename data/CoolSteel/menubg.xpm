@@ -1,0 +1,11 @@
+/* XPM */
+static char * test0_xpm[] = {
+"3 3 5 1",
+" 	c None",
+".	c #e4e2e4",
+"+	c #ccccd0",
+"@	c #bbbbc0",
+"#	c #9999a0",
+".++",
+"+@@",
+"+@#"};

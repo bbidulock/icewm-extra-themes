@@ -1,0 +1,10 @@
+/* XPM */
+static char * workspecebuttonbg_xpm[] = {
+"2 5 2 1",
+" 	c None",
+".	c #F0F0F0",
+"..",
+"..",
+"..",
+"..",
+".."};

@@ -1,0 +1,14 @@
+[Jan 5 1999]
+    - changed frameAR and frameAL to just be a flipped version of frameAT
+      -- the windows look a little more interesting now. :)
+    - fixed up frameIR, frameIB -- they used to be the same as the frameAR
+      and frameAB... I don't know how that escaped me, but for some reason
+      it did. :)
+
+[Jan 4 1999]
+    - added a little thing that gets rid of the icons in the topleft of the
+      window [ShowMenuButtonIcon = 0].. (Thanks to Shaji N V)
+    - more graphical changes will be put on hold for a while as school starts
+      back up :)
+
+[Dec 31 1999] - Initial Release

@@ -1,0 +1,33 @@
+ThemeDescription="clone of KDE2, just for fun"
+ThemeAuthor="John Wright"
+# note: missing the sticky button... IceWM does not have an equivalent function
+
+Look=pixmap
+TitleBarCentered=1
+TitleBarHeight=14
+
+TitleButtonsSupported="xmi"
+TitleButtonsLeft="x"
+TitleButtonsRight="mi"
+DesktopBackgroundColor="rgb:00/40/30"
+ColorActiveTitleBar="rgb:11/65/22"
+ColorNormalTitleBar="rgb:00/40/30"
+BorderSizeX=3 # [0-128]
+BorderSizeY=3 # [0-128]
+ColorActiveBorder="rgb:c0/c0/c0"
+ColorNormalBorder="rgb:b0/b0/b0"
+ColorNormalButton="rgb:C0/C0/C0"
+ColorNormalTitleBarText="rgb:60/60/60"
+ColorActiveTitleBarText="rgb:ff/ff/ff"
+ColorNormalMenu="rgb:C0/C0/C0"
+ColorActiveMenuItem="rgb:A0/A0/A0"
+ColorNormalMenuItemText="rgb:00/00/00"
+ColorActiveMenuItemText="rgb:00/00/00"
+ColorDisabledMenuItemText="rgb:80/80/80"
+ColorMoveSizeStatus="rgb:C0/C0/C0"
+ColorMoveSizeStatusText="rgb:00/00/00"
+ColorDefaultTaskBar="rgb:C0/C0/C0"
+ColorNormalTaskBarApp="rgb:C0/C0/C0"
+ColorNormalTaskBarAppText="rgb:00/00/00"
+ColorActiveTaskBarApp="rgb:E0/E0/E0"
+ColorActiveTaskBarAppText="rgb:00/00/00"

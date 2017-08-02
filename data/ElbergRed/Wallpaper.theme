@@ -1,0 +1,220 @@
+#########################################################################
+# Elberg
+#  
+# * Originally created for Sawfish by Dagmar 
+#   http://themes.freshmeat.net/projects/elberg
+# * RGB version by Rupes
+#   http://themes.freshmeat.net/projects/elberg_rgb
+# * Ported to IceWM by Kocil
+#   http://themes.freshmeat.net/projects/elberg-icewm
+# * Background was taken from 
+#   ftp://ftp.madpenguin.org/pub/slackware/backgrounds/
+#   I removed the "slackware" label. Sorry :)
+#
+# Sub themes
+#   - default : single taskbar with background
+#   - metal   : single  taskbar, metal look, no background
+#   - pixmap  : single taskbar, pixmap look, no background
+# Enjoy 
+# Kocil, k0c1l_at_yahoo.com
+                                                                                
+ThemeDescription="Elberg Red V 1.0"
+ThemeAuthor="Kocil"
+Gradients="switchbg.xpm menusel.xpm"
+
+
+###########################################################
+# General Look-and-Feel settings
+###########################################################
+Look=metal
+TrayDrawBevel=1
+
+###########################################################
+# Title Bar Setup
+###########################################################
+
+#  title buttons (x=close,m=max,i=min,h=hide,r=rollup,s=sysmenu,d=depth)
+TitleButtonsLeft="s"
+TitleButtonsRight="xmi"
+TitleButtonsSupported="sxmi"
+TitleBarHeight=19
+TitleBarJustify=50
+TitleBarCentered=1
+# TitleBarHorzOffset=0 # [-128-128]
+# TitleBarVertOffset=0 # [-128-128]
+# TitleBarJoinLeft=0 # 0/1
+# TitleBarJoinRight=0 # 0/1
+
+ShowMenuButtonIcon=0 # 0/1
+
+###########################################################
+# Border Setup
+###########################################################
+BorderSizeX=3
+BorderSizeY=3
+DlgBorderSizeX=1
+DlgBorderSizeY=1
+CornerSizeX=3 # [0-64]
+CornerSizeY=3 # [0-64]
+ScrollBarX=16 # [0-64]
+ScrollBarY=16 # [0-64]
+
+###########################################################
+# Color Scheme
+###########################################################
+
+ColorNormalTitleBarText="grey"
+ColorActiveTitleBarText="#feb91a"
+ColorNormalBorder="darkgrey"
+ColorActiveBorder="grey"
+
+ColorDialog="grey"
+ColorLabel="grey"
+ColorLabelText="black"
+ColorNormalButton="grey"
+ColorNormalButtonText="black"
+ColorActiveButton="grey"
+ColorActiveButtonText="black"
+
+ColorListBox="grey"
+ColorListBoxText="black"
+ColorListBoxSelection="darkred"
+ColorListBoxSelectionText="white"
+
+ColorScrollBar="darkgrey"
+ColorScrollBarSlider="grey"
+ColorScrollBarButton="grey"
+ColorScrollBarButtonArrow="black"
+
+ColorInput="white"
+ColorInputText="black"
+ColorInputSelection="darkgrey"
+ColorInputSelectionText="black"
+
+ColorNormalMenu="grey"
+ColorNormalMenuItemText="black"
+ColorActiveMenuItem="darkred"
+ColorActiveMenuItemText="white"
+ColorDisabledMenuItemText="darkgrey"
+
+ColorDefaultTaskBar="grey"
+ColorNormalTaskBarApp="grey"
+ColorNormalTaskBarAppText="black"
+ColorActiveTaskBarApp="red"
+ColorActiveTaskBarAppText="white"
+ColorMinimizedTaskBarApp="darkgrey"
+ColorMinimizedTaskBarAppText="black"
+
+ColorToolTip="yellow"
+ColorToolTipText="black"
+ColorMoveSizeStatus="yellow"
+ColorMoveSizeStatusText="black"
+ColorQuickSwitch="wheat"
+ColorQuickSwitchText="black"
+
+ColorClock=""
+ColorClockText="black"
+
+ColorApm=""
+ColorApmText="black"
+
+ColorCPUStatusUser="yellow"
+ColorCPUStatusSystem="red"
+ColorCPUStatusNice="green"
+ColorCPUStatusIdle="black"
+
+ColorNetSend="red"
+ColorNetReceive="green"
+ColorNetIdle="black"
+
+
+########################################################### 
+# Font Specification                                       
+###########################################################
+TitleFontName           =    "-misc-fixed-bold-r-normal-*-13-*-*-*-*-*-*-*"
+MenuFontName            =    "-misc-fixed-medium-r-normal-*-13-*-*-*-*-*-*-*"
+MinimizedWindowFontName =    "-misc-fixed-medium-r-normal-*-13-*-*-*-*-*-*-*"
+QuickSwitchFontName     =    "-misc-fixed-medium-r-normal-*-13-*-*-*-*-*-*-*"
+ListBoxFontName         =    "-misc-fixed-medium-r-normal-*-13-*-*-*-*-*-*-*"
+StatusFontName          =    "-misc-fixed-medium-r-normal-*-13-*-*-*-*-*-*-*"
+InputFontName           =    "-misc-fixed-medium-r-normal-*-13-*-*-*-*-*-*-*"
+ToolTipFontName         =    "-misc-fixed-medium-r-normal-*-13-*-*-*-*-*-*-*"
+ToolButtonFontName      =    "-misc-fixed-medium-r-normal-*-13-*-*-*-*-*-*-*"
+ActiveButtonFontName    =    "-misc-fixed-medium-r-normal-*-13-*-*-*-*-*-*-*"
+NormalButtonFontName    =    "-misc-fixed-medium-r-normal-*-13-*-*-*-*-*-*-*"
+ActiveTaskBarFontName   =    "-misc-fixed-medium-r-normal-*-13-*-*-*-*-*-*-*"
+NormalTaskBarFontName   =    "-misc-fixed-medium-r-normal-*-13-*-*-*-*-*-*-*"
+FxFontName              =    "-misc-fixed-medium-r-normal-*-13-*-*-*-*-*-*-*"
+LabelFontName           =    "-misc-fixed-medium-r-normal-*-13-*-*-*-*-*-*-*"
+ApmFontName             =    "-*-helvetica-medium-r-normal-*-12-*-*-*-*-*-*-*"
+ClockFontName           =    "-*-helvetica-medium-r-normal-*-12-*-*-*-*-*-*-*"
+
+###########################################################
+# Taskbar Preferences
+###########################################################
+
+ShowTaskBar=1 # 0/1
+TaskBarDoubleHeight=0 # 0/1
+#TaskBarAtTop=0 # 0/1
+
+TaskBarShowStartMenu=1 # 0/1
+#TaskBarShowWindowListMenu=1 # 0/1
+#TaskBarShowShowDesktopButton=1 # 0/1
+
+# TaskBarShowClock=1 # 0/1
+TaskBarClockLeds=0
+#TimeFormat=" %l:%M"
+#TimeFormatAlt=""
+#DateFormat="%c"
+
+#TaskBarShowCPUStatus=1 # 0/1
+# TaskBarCPUSamples=20 # [2-1000] 
+
+#TaskBarShowNetStatus=1 # 0/1
+
+# TaskBarShowAPMStatus=0 # 0/1
+# TaskBarShowAPMTime=1 # 0/1
+# List of battery names (directories) in /proc/acpi/battery to ignore.
+# AcpiIgnoreBatteries=""
+
+#TaskBarShowMailboxStatus=1 # 0/1
+# TaskBarMailboxStatusBeepOnNewMail=0 # 0/1
+# TaskBarMailboxStatusCountMessages=0 # 0/1
+
+TaskBarShowWorkspaces=1 # 0/1
+#TaskBarWorkspacesLeft=1 # 0/1
+#WorkspaceNames=" Main ", " Inet  ", " Dev  " 
+
+TaskBarShowWindows=1 # 0/1
+#TaskBarShowAllWindows=1 # 0/1
+TaskBarShowWindowIcons=1 # 0/1
+
+#TaskBarShowTray=1 # 0/1
+#TrayDrawBevel=0 # 0/1
+#TrayShowAllWindows=1 # 0/1
+
+#EnableAddressBar=1 # 0/1
+#ShowAddressBar=1 # 0/1
+
+###########################################################
+# Quick Switch Preferences
+###########################################################
+
+# QuickSwitchHorzMargin=3 # [0-64]
+# QuickSwitchVertMargin=3 # [0-64]
+# QuickSwitchIconMargin=4 # [0-64]
+# QuickSwitchIconBorder=2 # [0-64]
+# QuickSwitchSeparatorSize=6 # [0-64]
+
+###########################################################
+# Background
+###########################################################
+
+DesktopBackgroundCenter=1 # 0/1
+SupportSemitransparency=1 # 0/1
+DesktopBackgroundScaled=1 # 0/1
+DesktopBackgroundColor="midnightBlue"
+DesktopBackgroundImage="/usr/share/wallpapers/default.jpg"
+#DesktopTransparencyColor=""
+#DesktopTransparencyImage=""
+

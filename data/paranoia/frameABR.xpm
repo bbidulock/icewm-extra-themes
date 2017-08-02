@@ -1,0 +1,12 @@
+/* XPM */
+static char * frameABR_xpm[] = {
+"24 4 5 1",
+" 	c #FFFFFFFFFFFF",
+".	c #000000000000",
+"X	c #8E388E388E38",
+"o	c #C71BC30BC71B",
+"O	c #B6DABEFBB6DA",
+"                     .Xo",
+".o o o o o o o o o o o.X",
+"X.ooooooooooooooooooooo.",
+"OX.oXXXXXXXXXXXXXXXXXXXX"};
