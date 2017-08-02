@@ -1,5 +1,39 @@
 # created with git log --stat=76 -M -C -300|fmt -sct -w80
 
+commit 1c1c104048514bbd21d66141ba6b8bc420e2f1ec
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Wed Aug 2 14:09:16 2017 -0600
+
+    prepare to strap in files
+
+ Makefile.am  |  2 +-
+ configure.ac | 24 +++++++-----------------
+ 2 files changed, 8 insertions(+), 18 deletions(-)
+
+commit fe2ecad5d7f93f539f955f6908d5ffc93fbfbe52
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Wed Aug 2 13:47:38 2017 -0600
+
+    create build system
+
+ .gitignore       | 55 ++++++++++++++++++++++++++++++++++++
+ AUTHORS          |  3 ++
+ ChangeLog        | 10 +++++++
+ Makefile.am      | 69 +++++++++++++++++++++++++++++++++++++++++++++
+ NEWS             | 10 +++++++
+ README.md        | 79 +++++++++++++++++++++++++++++++++++++++++++++++++++-
+ README.md.in     | 78 +++++++++++++++++++++++++++++++++++++++++++++++++++
+ THANKS           |  0
+ TODO             |  0
+ autogen.sh       | 24 ++++++++++++++++
+ configure.ac     | 63 +++++++++++++++++++++++++++++++++++++++++
+ configure.sh     | 37 ++++++++++++++++++++++++
+ data/Makefile.am |  3 ++
+ dist.sh          |  9 ++++++
+ gennews.sh       | 34 ++++++++++++++++++++++
+ rebuild.sh       | 11 ++++++++
+ 16 files changed, 484 insertions(+), 1 deletion(-)
+
 commit 6b66592edfbd2fecde56392c867dbd74fa800c3e
 Author: Brian Bidulock <bidulock@openss7.org>
 Date:   Wed Aug 2 13:18:18 2017 -0600
