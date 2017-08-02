@@ -1,9 +1,9 @@
-[icewm-extra-themes -- read me first file.  @DATE]: #
+[@PACKAGE@ -- read me first file.  @DATE]: #
 
-icewm-extra-themes
+@PACKAGE@
 ===============
 
-Package `icewm-extra-themes-0.0` was released under GPLv3 license 2017-08-02.
+Package `@PACKAGE@-@VERSION@` was released under GPLv3 license @DATE@.
 
 This is a set of extra themes for IceWM that were too numerous to
 include in the base IceWM release.  The purpose is to provide an
@@ -14,11 +14,11 @@ when building and installing IceWM.
 Release
 -------
 
-This is the `icewm-extra-themes-0.0` package, released 2017-08-02.  This
+This is the `@PACKAGE@-@VERSION@` package, released @DATE@.  This
 release, and the latest version, can be obtained from the [GitHub
 repository][1], using a command such as:
 
-    $> git clone https://github.com/bbidulock/icewm-extra-themes.git
+    $> git clone https://github.com/bbidulock/@PACKAGE@.git
 
 Please see the [NEWS][2] file for release notes and history of user
 visible changes for the current version, and the [ChangeLog][3]
@@ -41,17 +41,17 @@ included in its own subdirectory.)
 Quick Start
 -----------
 
-The quickest and easiest way to get `icewm-extra-themes` up and running
+The quickest and easiest way to get `@PACKAGE@` up and running
 is to run the following commands:
 
-    $> git clone https://github.com/bbidulock/icewm-extra-themes.git
-    $> cd icewm-extra-themes
+    $> git clone https://github.com/bbidulock/@PACKAGE@.git
+    $> cd @PACKAGE@
     $> ./autogen.sh
     $> ./configure --prefix=/usr --sysconfdir=/etc
     $> make V=0
     $> make DESTDIR="$pkgdir" install
 
-This will configure, compile and install `icewm-extra-themes` the quickest.
+This will configure, compile and install `@PACKAGE@` the quickest.
 For those who would like to spend the extra 15 seconds reading
 the output of `./configure --help`, some compile options can be
 turned on and off before the build.
@@ -67,12 +67,12 @@ Report problems at GitHub [here][7].
 
 
 
-[1]: https://github.com/bbidulock/icewm-extra-themes
+[1]: https://github.com/bbidulock/@PACKAGE@
 [2]: NEWS
 [3]: ChangeLog
 [4]: TODO
 [5]: INSTALL
 [6]: COPYING
-[7]: https://github.com/bbidulock/icewm-extra-themes/issues
+[7]: https://github.com/bbidulock/@PACKAGE@/issues
 
 [ vim: set ft=markdown sw=4 tw=72 nocin nosi fo+=tcqlorn spell: ]: #

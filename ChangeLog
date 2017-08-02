@@ -1,0 +1,10 @@
+# created with git log --stat=76 -M -C -300|fmt -sct -w80
+
+commit 6b66592edfbd2fecde56392c867dbd74fa800c3e
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Wed Aug 2 13:18:18 2017 -0600
+
+    initial commit
+
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
