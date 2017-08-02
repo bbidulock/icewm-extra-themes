@@ -1,5 +1,17 @@
 # created with git log --stat=76 -M -C -300|fmt -sct -w80
 
+commit 5eaa13faa6a2b93992b7967d454bb6b653de242f
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Wed Aug 2 16:41:00 2017 -0600
+
+    downgrade license to GPL2
+
+ COPYING      | 914 ++++++++++++++++++-------------------------------------
+ ChangeLog    |  12 +
+ NEWS         |   3 +-
+ README.md.in |   4 +-
+ 4 files changed, 306 insertions(+), 627 deletions(-)
+
 commit e5caed850237fdc732990f8b8d01edf3b8e1f9fc
 Author: Brian Bidulock <bidulock@openss7.org>
 Date:   Wed Aug 2 16:35:36 2017 -0600

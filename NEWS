@@ -5,12 +5,13 @@ Release icewm-extra-themes-1.0 released 2017-08-02
 
 git shortlog -e -n -w80,6,8 0.1...1.0
 
-Brian Bidulock <bidulock@openss7.org> (5):
+Brian Bidulock <bidulock@openss7.org> (6):
       prepare to strap in files
       update release files
       add theme files
       install themes
       update release files
+      downgrade license to GPL2
 
 
 Release icewm-extra-themes-0.1 released 2017-08-02
