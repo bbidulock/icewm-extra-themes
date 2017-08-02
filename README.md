@@ -3,7 +3,7 @@
 icewm-extra-themes
 ===============
 
-Package `icewm-extra-themes-0.1.1` was released under GPLv3 license 2017-08-02.
+Package `icewm-extra-themes-0.1.3` was released under GPLv3 license 2017-08-02.
 
 This is a set of extra themes for IceWM that were too numerous to
 include in the base IceWM release.  The purpose is to provide an
@@ -14,7 +14,7 @@ when building and installing IceWM.
 Release
 -------
 
-This is the `icewm-extra-themes-0.1.1` package, released 2017-08-02.  This
+This is the `icewm-extra-themes-0.1.3` package, released 2017-08-02.  This
 release, and the latest version, can be obtained from the [GitHub
 repository][1], using a command such as:
 

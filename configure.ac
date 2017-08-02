@@ -1,7 +1,7 @@
 
 AC_PREREQ(2.69)
-AC_INIT([icewm-extra-themes],[0.0],[https://github.com/bbidulock/icewm-extra-themes/issues],[icewm-extra-themes], [https://github.com/bbidulock/icewm-extra-themes])
-AC_REVISION([0.0])
+AC_INIT([icewm-extra-themes],[0.1.3],[https://github.com/bbidulock/icewm-extra-themes/issues],[icewm-extra-themes], [https://github.com/bbidulock/icewm-extra-themes])
+AC_REVISION([0.1.3])
 
 AC_CONFIG_SRCDIR([data/Makefile.am])
 AC_CONFIG_HEADERS([autoconf.h])
