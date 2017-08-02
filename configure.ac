@@ -21,6 +21,9 @@ AC_PROG_LN_S
 AC_PROG_MAKE_SET
 AC_PROG_MKDIR_P
 
+AC_ARG_VAR([MARKDOWN],[markdown command. @<:@default=markdown@:>@])
+AC_CHECK_PROGS([MARKDOWN],[markdown],[${am_missing_run}markdown],[$PATH])
+
 # Checks for libraries.
 
 # Checks for header files.
@@ -37,23 +40,10 @@ eval "sharedir=\"$sharedir\""
 eval "sharedir=\"$sharedir\""
 AC_SUBST([sharedir])
 
-xdgconfdir="$sysconfdir"
-eval "xdgconfdir=\"$xdgconfdir\""
-eval "xdgconfdir=\"$xdgconfdir\""
-eval "xdgconfdir=\"$xdgconfdir\""
-AC_SUBST([xdgconfdir])
-
-xdgdatadir="$prefix"
-eval "xdgdatadir=\"$xdgdatadir\""
-eval "xdgdatadir=\"$xdgdatadir\""
-eval "xdgdatadir=\"$xdgdatadir\""
-AC_SUBST([xdgdatadir])
-
-xdemoddir='${libdir}/xde/modules'
-AC_SUBST([xdemoddir])
-
-xdeincdir='${includedir}/xde'
-AC_SUBST([xdeincdir])
+icewmdir='$(datadir)/icewm'
+AC_SUBST([icewmdir])
+icewmthemesdir='$(icewmdir)/themes'
+AC_SUBST([icewmthemesdir])
 
 AC_CONFIG_FILES([Makefile
 		 data/Makefile
