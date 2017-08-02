@@ -3,7 +3,7 @@
 @PACKAGE@
 ===============
 
-Package `@PACKAGE@-@VERSION@` was released under GPLv3 license @DATE@.
+Package `@PACKAGE@-@VERSION@` was released under GPLv2 license @DATE@.
 
 This is a set of extra themes for IceWM that were too numerous to
 include in the base IceWM release.  The purpose is to provide an
@@ -31,7 +31,7 @@ Please see the [INSTALL][5] file for installation instructions.
 When working from `git(1)`, please use this file.  An abbreviated
 installation procedure that works for most applications appears below.
 
-This release is published under GPLv3.  Please see the license in
+This release is published under GPLv2.  Please see the license in
 the file [COPYING][6].  (Please note that the license applies to the
 collection.  Each individual theme has its own licensing conditions
 included in its own subdirectory.)
