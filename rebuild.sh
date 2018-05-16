@@ -6,6 +6,6 @@ rm -f cscope.*
 ./autogen.sh
 ./configure.sh
 make clean
-make V=0 cscope
+make cscope
 cscope -b
-make V=0 clean all README
+make -j$(($(nproc 2>/dev/null||echo 4)<<1)) clean all README

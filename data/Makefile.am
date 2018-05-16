@@ -4072,7 +4072,62 @@ nobase_dist_icewmthemes_DATA = \
 	yamm/titleIP.xpm \
 	yamm/titleIR.xpm \
 	yamm/titleIS.xpm \
-	yamm/titleIT.xpm
+	yamm/titleIT.xpm \
+	gtk2/closeA.xpm \
+	gtk2/closeI.xpm \
+	gtk2/default.theme \
+	gtk2/maximizeA.xpm \
+	gtk2/maximizeI.xpm \
+	gtk2/menuButtonA.xpm \
+	gtk2/menuButtonI.xpm \
+	gtk2/minimizeA.xpm \
+	gtk2/minimizeI.xpm \
+	gtk2/restoreA.xpm \
+	gtk2/restoreI.xpm \
+	nice2/closeA.xpm \
+	nice2/closeI.xpm \
+	nice2/default.theme \
+	nice2/maximizeA.xpm \
+	nice2/maximizeI.xpm \
+	nice2/menuButtonA.xpm \
+	nice2/menuButtonI.xpm \
+	nice2/minimizeA.xpm \
+	nice2/minimizeI.xpm \
+	nice2/restoreA.xpm \
+	nice2/restoreI.xpm \
+	nice2/titleAB.xpm \
+	nice2/titleAT.xpm \
+	nice2/titleIB.xpm \
+	nice2/titleIT.xpm \
+	nice/blue.theme \
+	nice/close.xpm \
+	nice/default.theme \
+	nice/hide.xpm \
+	nice/maximize.xpm \
+	nice/minimize.xpm \
+	nice/restore.xpm \
+	nice/rolldown.xpm \
+	nice/rollup.xpm \
+	warp3/close.xpm \
+	warp3/default.theme \
+	warp3/hide.xpm \
+	warp3/maximize.xpm \
+	warp3/minimize.xpm \
+	warp3/restore.xpm \
+	warp3/rolldown.xpm \
+	warp3/rollup.xpm \
+	warp4/close.xpm \
+	warp4/default.theme \
+	warp4/hide.xpm \
+	warp4/maximize.xpm \
+	warp4/minimize.xpm \
+	warp4/restore.xpm \
+	yellowmotif/close.xpm \
+	yellowmotif/default.theme \
+	yellowmotif/maximize.xpm \
+	yellowmotif/menu.xpm \
+	yellowmotif/minimize.xpm \
+	yellowmotif/restore.xpm
 
 # nothing yet
 
