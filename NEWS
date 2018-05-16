@@ -1,17 +1,27 @@
-icewm-extra-themes -- history of user-visible changes.  2017-08-02
+icewm-extra-themes -- history of user-visible changes.  2018-05-16
+
+Release icewm-extra-themes-1.1 released 2018-05-16
+--------------------------------------------------
+
+git shortlog -e -n -w80,6,8 1.0...1.1
+
+Brian Bidulock <bidulock@openss7.org> (1):
+      add in old icewm themes
+
 
 Release icewm-extra-themes-1.0 released 2017-08-02
 --------------------------------------------------
 
 git shortlog -e -n -w80,6,8 0.1...1.0
 
-Brian Bidulock <bidulock@openss7.org> (6):
+Brian Bidulock <bidulock@openss7.org> (7):
       prepare to strap in files
       update release files
       add theme files
       install themes
       update release files
       downgrade license to GPL2
+      update release files
 
 
 Release icewm-extra-themes-0.1 released 2017-08-02

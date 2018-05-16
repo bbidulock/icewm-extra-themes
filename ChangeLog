@@ -1,4 +1,83 @@
-# created with git log --stat=76 -M -C -300|fmt -sct -w80
+# created with git log --stat=76 -M -C -500|fmt -sct -w80
+
+commit 1f349b4c0d3a8efa52ddc1f25a9e866aae60bf0f
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Wed May 16 16:44:41 2018 -0600
+
+    add in old icewm themes
+
+ Makefile.am                    | 31 ++++++++--------
+ configure.ac                   | 38 +++++++++++++++++++-
+ data/Makefile.am               | 57 ++++++++++++++++++++++++++++-
+ data/gtk2/closeA.xpm           | 50 ++++++++++++++++++++++++++
+ data/gtk2/closeI.xpm           | 50 ++++++++++++++++++++++++++
+ data/gtk2/default.theme        | 41 +++++++++++++++++++++
+ data/gtk2/maximizeA.xpm        | 50 ++++++++++++++++++++++++++
+ data/gtk2/maximizeI.xpm        | 50 ++++++++++++++++++++++++++
+ data/gtk2/menuButtonA.xpm      | 48 +++++++++++++++++++++++++
+ data/gtk2/menuButtonI.xpm      | 48 +++++++++++++++++++++++++
+ data/gtk2/minimizeA.xpm        | 50 ++++++++++++++++++++++++++
+ data/gtk2/minimizeI.xpm        | 50 ++++++++++++++++++++++++++
+ data/gtk2/restoreA.xpm         | 50 ++++++++++++++++++++++++++
+ data/gtk2/restoreI.xpm         | 50 ++++++++++++++++++++++++++
+ data/nice/blue.theme           | 22 ++++++++++++
+ data/nice/close.xpm            | 20 +++++++++++
+ data/nice/default.theme        | 25 +++++++++++++
+ data/nice/hide.xpm             | 19 ++++++++++
+ data/nice/maximize.xpm         | 19 ++++++++++
+ data/nice/minimize.xpm         | 19 ++++++++++
+ data/nice/restore.xpm          | 19 ++++++++++
+ data/nice/rolldown.xpm         | 19 ++++++++++
+ data/nice/rollup.xpm           | 19 ++++++++++
+ data/nice2/closeA.xpm          | 69 +++++++++++++++++++++++++++++++++++
+ data/nice2/closeI.xpm          | 68 +++++++++++++++++++++++++++++++++++
+ data/nice2/default.theme       | 32 +++++++++++++++++
+ data/nice2/maximizeA.xpm       | 68 +++++++++++++++++++++++++++++++++++
+ data/nice2/maximizeI.xpm       | 68 +++++++++++++++++++++++++++++++++++
+ data/nice2/menuButtonA.xpm     | 73 ++++++++++++++++++++++++++++++++++++++
+ data/nice2/menuButtonI.xpm     | 72 +++++++++++++++++++++++++++++++++++++
+ data/nice2/minimizeA.xpm       | 68 +++++++++++++++++++++++++++++++++++
+ data/nice2/minimizeI.xpm       | 68 +++++++++++++++++++++++++++++++++++
+ data/nice2/restoreA.xpm        | 68 +++++++++++++++++++++++++++++++++++
+ data/nice2/restoreI.xpm        | 68 +++++++++++++++++++++++++++++++++++
+ data/nice2/titleAB.xpm         | 48 +++++++++++++++++++++++++
+ data/nice2/titleAT.xpm         | 48 +++++++++++++++++++++++++
+ data/nice2/titleIB.xpm         | 48 +++++++++++++++++++++++++
+ data/nice2/titleIT.xpm         | 48 +++++++++++++++++++++++++
+ data/warp3/close.xpm           | 22 ++++++++++++
+ data/warp3/default.theme       | 30 ++++++++++++++++
+ data/warp3/hide.xpm            | 19 ++++++++++
+ data/warp3/maximize.xpm        | 21 +++++++++++
+ data/warp3/minimize.xpm        | 23 ++++++++++++
+ data/warp3/restore.xpm         | 21 +++++++++++
+ data/warp3/rolldown.xpm        | 19 ++++++++++
+ data/warp3/rollup.xpm          | 19 ++++++++++
+ data/warp4/close.xpm           | 46 ++++++++++++++++++++++++
+ data/warp4/default.theme       | 26 ++++++++++++++
+ data/warp4/hide.xpm            | 46 ++++++++++++++++++++++++
+ data/warp4/maximize.xpm        | 46 ++++++++++++++++++++++++
+ data/warp4/minimize.xpm        | 46 ++++++++++++++++++++++++
+ data/warp4/restore.xpm         | 46 ++++++++++++++++++++++++
+ data/yellowmotif/close.xpm     | 24 +++++++++++++
+ data/yellowmotif/default.theme | 37 +++++++++++++++++++
+ data/yellowmotif/maximize.xpm  | 23 ++++++++++++
+ data/yellowmotif/menu.xpm      | 21 +++++++++++
+ data/yellowmotif/minimize.xpm  | 25 +++++++++++++
+ data/yellowmotif/restore.xpm   | 23 ++++++++++++
+ dist.sh                        |  2 +-
+ rebuild.sh                     |  4 +--
+ 60 files changed, 2327 insertions(+), 20 deletions(-)
+
+commit ebcdf2611d7d834a16f2caca6a25fdcae65bd833
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Wed Aug 2 16:45:41 2017 -0600
+
+    update release files
+
+ ChangeLog | 12 ++++++++++++
+ NEWS      |  3 ++-
+ README.md |  4 ++--
+ 3 files changed, 16 insertions(+), 3 deletions(-)
 
 commit 5eaa13faa6a2b93992b7967d454bb6b653de242f
 Author: Brian Bidulock <bidulock@openss7.org>
