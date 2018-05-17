@@ -5,8 +5,10 @@ Release icewm-extra-themes-1.1 released 2018-05-16
 
 git shortlog -e -n -w80,6,8 1.0...1.1
 
-Brian Bidulock <bidulock@openss7.org> (1):
+Brian Bidulock <bidulock@openss7.org> (3):
       add in old icewm themes
+      do not need asciidoc
+      update release files
 
 
 Release icewm-extra-themes-1.0 released 2017-08-02

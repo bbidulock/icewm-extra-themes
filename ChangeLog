@@ -1,5 +1,26 @@
 # created with git log --stat=76 -M -C -500|fmt -sct -w80
 
+commit a7a2c144f782063da1c9d87330659e4079bb2d1e
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Wed May 16 16:51:24 2018 -0600
+
+    update release files
+
+ AUTHORS   |  2 +-
+ ChangeLog | 81 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-
+ NEWS      | 14 +++++++++--
+ README.md |  4 +--
+ 4 files changed, 95 insertions(+), 6 deletions(-)
+
+commit 15596cd0f95e0c08cf9d2b4a5673090f5eb8033a
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Wed May 16 16:50:18 2018 -0600
+
+    do not need asciidoc
+
+ configure.ac | 30 +++---------------------------
+ 1 file changed, 3 insertions(+), 27 deletions(-)
+
 commit 1f349b4c0d3a8efa52ddc1f25a9e866aae60bf0f
 Author: Brian Bidulock <bidulock@openss7.org>
 Date:   Wed May 16 16:44:41 2018 -0600
