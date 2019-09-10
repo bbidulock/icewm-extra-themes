@@ -1,13 +1,52 @@
-icewm-extra-themes -- history of user-visible changes.  2018-05-16
+icewm-extra-themes -- history of user-visible changes.  2019-09-10
+
+Release icewm-extra-themes-1.2 released 2019-09-10
+--------------------------------------------------
+
+git tag -n100 -l 1.2
+
+1.2             Maintenance Release 1.2
+
+    This is another release of the icewm-extra-themes package that contains
+    a set of extra themes for IceWM that were too numerous to include in
+    the base IceWM release. The purpose is to provide an adequate
+    replacement for the Debian icewm-themes package and to act as a source
+    of themes for distro maintainers of IceWM to select from when building
+    and installing IceWM.
+
+    This release is a maintenance release whose sole purpose is to update
+    the build system, generate a better NEWS file, handle annotated tags
+    better, and converts the release archives to lzip compression.
+
+    Included in the release is an autoconf tarball for building the package
+    from source. See the NEWS and TODO file in the release for more
+    information. Please report problems to the issues list on GitHub.
+
+git shortlog -e -n -w80,6,8 1.1...1.2
+
+Brian Bidulock <bidulock@openss7.org> (11):
+      add license file to repo
+      add release notes
+      ignore release products
+      build release notes
+      automatically update configure.ac from git
+      better defaults and lzip compression
+      better defaults now
+      do not need c compiler
+      build release notes with dist
+      better NEWS generation for annotated tags
+      ignore other COPYING files
+
 
 Release icewm-extra-themes-1.1 released 2018-05-16
 --------------------------------------------------
 
 git shortlog -e -n -w80,6,8 1.0...1.1
 
-Brian Bidulock <bidulock@openss7.org> (3):
+Brian Bidulock <bidulock@openss7.org> (4):
       add in old icewm themes
       do not need asciidoc
+      update release files
       update release files
 
 
