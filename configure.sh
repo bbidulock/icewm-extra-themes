@@ -27,7 +27,6 @@ esac
 
 ./configure \
 	--enable-maintainer-mode \
-	--enable-dependency-tracking \
 	CPPFLAGS="$CPPFLAGS" \
 	CFLAGS="$DEBUG_CFLAGS -Wall -Werror $CFLAGS" \
 	CXXFLAGS="$DEBUG_CXXFLAGS -Wall -Werror $CXXFLAGS" \
