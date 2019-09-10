@@ -10,7 +10,6 @@ config.status
 configure
 configure.ac.bak
 configure.scan
-COPYING
 core
 cscope.*
 ctwm/getstyles
